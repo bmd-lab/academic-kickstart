@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research group at"
+role = "Research group of Lee Burton"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Shanghai University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Computer Modelling, Catalysis, Solar Energy and Sustainability."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -77,5 +77,4 @@ user_groups = []
 
 Data-driven discovery for materials and semiconductors. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
+We are always interested in hiring talented and driven scientists at any level. If interested we can be reached by the contact form below.
