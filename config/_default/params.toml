@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "31.316035"
+longitude = "121.393883"
 zoom = 15
 
 ############################
@@ -99,7 +99,6 @@ zoom = 15
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_css = ["avatar_square"]
-plugins_js  = []
 
 ############################
 ## Advanced options       ##

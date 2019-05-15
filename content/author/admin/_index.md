@@ -22,12 +22,12 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Computer Modelling",
-  "Catalysis",
-  "Solar Energy",
-  "Sustainability"
-]
+#interests = [
+#  "Computer Modelling",
+#  "Catalysis",
+#  "Solar Energy",
+#  "Sustainability"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,6 +75,8 @@ user_groups = []
 
 +++
 
-Data-driven discovery for materials and semiconductors. 
+Our focus is the data-driven discovery of materials and semiconductors. 
 
-We are always interested in hiring talented and driven scientists at any level. If interested we can be reached by the contact form below.
+This means we use computers to model solids and predict their properties before they have even been made. 
+
+We are always interested in hiring talented and driven scientists at any level. If you're interested, we can be reached by the contact form below.
