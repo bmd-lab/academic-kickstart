@@ -9,11 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publication"
-subtitle = ""
+subtitle = "For a full list of papers click [here](papers/full-list)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "featured"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
