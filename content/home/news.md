@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent News"
-subtitle = ""
+title = "Featured News"
+subtitle = "For all recent group news click [here](news/full-list)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "news"
+  page_type = "featured_news"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
