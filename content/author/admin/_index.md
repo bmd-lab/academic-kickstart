@@ -80,3 +80,4 @@ Our focus is the data-driven discovery of materials and semiconductors.
 This means we use computers to model solids and predict their properties before they have even been made. 
 
 We are always interested in hiring talented and driven scientists at any level. If you're interested, we can be reached by the contact form below.
+
