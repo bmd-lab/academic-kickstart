@@ -83,6 +83,13 @@ user_groups = []
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
+[advanced]
+ # Custom CSS.
+ css_style = "featured_small"
+
+ # CSS class.
+ css_class = ""
+
 +++
 
 Lee A. Burton finished his PhD at the University of Bath in England in 2014. Since then he has been awarded 2 international post-doc fellowships (to work in Japan and Belgium) and the European Seal of Excellence in 2018.
