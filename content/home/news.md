@@ -64,4 +64,9 @@ subtitle = "For all recent group news click [here](news/full-list)."
  
  # CSS class.
  css_class = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "100px", "0"]
+
 +++

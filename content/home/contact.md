@@ -17,6 +17,8 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-+++
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "12px", "0"]
 
-
++++ 

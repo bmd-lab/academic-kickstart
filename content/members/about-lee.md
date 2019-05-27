@@ -10,5 +10,10 @@ title = "About Lee"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
 author = "lee"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "100px", "0"]
+
 +++
 

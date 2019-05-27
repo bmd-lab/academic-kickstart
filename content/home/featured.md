@@ -61,4 +61,8 @@ subtitle = "For a full list of papers click [here](papers/full-list)."
  
  # CSS class.
  css_class = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "100px", "0"]
 +++

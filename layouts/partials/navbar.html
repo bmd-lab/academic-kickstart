@@ -2,7 +2,7 @@
   <div class="container">
 
     <!-- Brand and toggle get grouped for better mobile display -->
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+      <a class="navbar-brand" href="{{ "#about" | relLangURL }}">
         {{- if .Site.Params.logo -}}
         <img src="{{ printf "/img/%s" .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
         {{- else -}}
