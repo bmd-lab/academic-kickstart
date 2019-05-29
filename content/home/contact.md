@@ -19,6 +19,6 @@ email_form = 2
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0", "12px", "0"]
+  padding = ["80px", "0", "5px", "0"]
 
 +++ 

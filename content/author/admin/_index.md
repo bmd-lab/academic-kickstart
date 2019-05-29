@@ -79,5 +79,7 @@ Our focus is the data-driven discovery of materials and semiconductors.
 
 This means we use computers to model solids and predict their properties before they have even been made. 
 
-We are always open to hiring talented and driven scientists at any level. If you're interested, we can be reached by the contact form below.
+We mainly focus on materials that could be used for renewable energy and clean technology, such as solar panels.
+
+If you're interested in working with us, we can be reached anytime via the contact form below.
 
