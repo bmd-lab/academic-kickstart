@@ -24,7 +24,7 @@ summary = "The Eastern Young Scholar award is a 3-year early-career fellowship f
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -44,3 +44,4 @@ caption = "Cupcake"
 
 +++
 
+The Eastern Young Scholar award is a 3-year early-career fellowship for scientists working in the east of China.

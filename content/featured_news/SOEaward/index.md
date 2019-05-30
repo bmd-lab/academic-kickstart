@@ -24,7 +24,7 @@ summary = "The Seal of Excellence award is issued by the European Commission as 
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -44,5 +44,4 @@ caption = "Cupcake"
 
 +++
 
-
-
+The Seal of Excellence award is issued by the European Commission as an endorsement of scientists for future grant applications.
