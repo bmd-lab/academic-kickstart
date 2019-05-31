@@ -16,10 +16,10 @@ role = "Professor of BMD"
 organizations = [ { name = "Shanghai University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "Associate Professor of Physics"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+#email = ""
 
 # List (academic) interests or hobbies
 #interests = [

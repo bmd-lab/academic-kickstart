@@ -19,7 +19,7 @@ organizations = [ { name = "Shanghai University", url = "" } ]
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+#email = ""
 
 # List (academic) interests or hobbies
 #interests = [
@@ -79,7 +79,7 @@ Our focus is the data-driven discovery of materials and semiconductors.
 
 This means we use computers to model solids and predict their properties before they have been made. 
 
-We are mainly interested in materials that could be used for renewable energy and clean technology, such as solar panels.
+We are mainly interested in materials that can be used for renewable energy and clean technology, such as solar panels.
 
-If you're interested in working with us, we can be reached anytime via the contact form below.
+If you'd like to work with us, or have any feedback, we can be reached anytime via the contact form below.
 
