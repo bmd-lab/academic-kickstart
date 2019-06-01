@@ -16,7 +16,7 @@ role = "Professor of BMD"
 organizations = [ { name = "Shanghai University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Associate Professor of Physics"
+bio = "Professor of BMD"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = ""
@@ -32,7 +32,7 @@ bio = "Associate Professor of Physics"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups = ["Researchers", "Visitors"]
-user_groups = []
+#user_groups = []
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
