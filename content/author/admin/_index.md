@@ -81,5 +81,5 @@ This means we use computers to model solids and predict their properties before 
 
 We are mainly interested in materials that can be used for renewable energy and clean technology, such as solar panels.
 
-If you'd like to work with us, or have any feedback, contact us anytime via the form below.
+If you'd like to work with us, or have any feedback, we can be reached anytime via the form below.
 
