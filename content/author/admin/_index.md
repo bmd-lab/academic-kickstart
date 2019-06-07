@@ -77,9 +77,9 @@ bio = "Research group of Lee Burton"
 
 Our focus is the data-driven discovery of materials and semiconductors. 
 
-This means we use computers to model solids and predict their properties before they have been made. 
+This means we use computers to model solids and predict their properties before they have even been made. 
 
-We are mainly interested in materials that can be used for renewable energy and clean technology, such as solar panels.
+We are mainly interested in materials that can be used for renewable energy and clean technologies, like solar panels.
 
-If you'd like to work with us, or have any feedback, we can be reached anytime via the form below.
+If you'd like to work with us, or have any feedback, we can be reached anytime via the contact form below.
 
