@@ -27,7 +27,7 @@ publication_short = ""
 abstract = "In this paper, we present the results of a large-scale, high-throughput computational search for electrides among all known inorganic materials. Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known. We report on all these candidates and discuss the structural and chemical factors leading to electride formation. Among these candidates, our work identifies the first partially filled 3d transition-metal-containing electrides Ba3CrN3 and Sr3CrN3, an unexpected finding that contravenes conventional chemistry."
 
 # Summary. An optional shortened abstract.
-summary = "Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
+summary = "Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
 
 # Digital Object Identifier (DOI)
 doi = "10.1021/acs.chemmater.8b02526"
