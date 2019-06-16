@@ -94,4 +94,4 @@ See below for a list of group files.
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| Lee Burton's CV | PDF   | [link](/img/icqms2.png) |
+| Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
