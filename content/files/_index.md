@@ -1,7 +1,7 @@
 +++
 # Display name
 #name = ""
-Title = "Recent news"
+Title = "Group Files"
 date = 2019-05-17
 
 # Username (this should match the folder name)
@@ -85,16 +85,13 @@ date = 2019-05-17
 #   link = "files/cv.pdf"
 
 [image]
-#  Caption (optional)
+  # Caption (optional)
   caption = "Previous and ongoing collaborations with BMD"
 
 +++
 
-See below for full list of recent news 
+See below for a list of group files.
 
-| News         |          Date  |
-| ------------ |    ----------  | 
-| Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.             |     April 2019     |
-| Lee Burton begins as Associate Professor at Shanghai University.                        |     February 2019  |
-| Lee Burton wins Eastern Young Scholar award.                                            |     December 2018  |
-
+| Title           | type  | URL  |
+| -------------   | ----- | ---- |
+| Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |

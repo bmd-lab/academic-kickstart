@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "leeburton@shu.edu.cn"
-phone = "+86 216 613 6129"
+phone = "+86 021 6613 6129"
 address = "Physics Department, E111, Shanghai University, 99 Shangda Road, Shanghai, 200444 China."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
