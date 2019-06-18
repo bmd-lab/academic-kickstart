@@ -19,7 +19,7 @@ organizations = [ { name = "Shanghai University", url = "" } ]
 bio = "Research group of Lee Burton"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email = ""
+email = ""
 
 # List (academic) interests or hobbies
 #interests = [
@@ -32,7 +32,7 @@ bio = "Research group of Lee Burton"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups = ["Researchers", "Visitors"]
-#user_groups = []
+user_groups = []
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
