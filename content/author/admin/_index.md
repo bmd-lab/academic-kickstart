@@ -22,7 +22,7 @@ bio = "Research group of Lee Burton"
 email = ""
 
 # List (academic) interests or hobbies
-#interests = [
+interests = []
 #  "Computer Modelling",
 #  "Catalysis",
 #  "Solar Energy",
@@ -36,6 +36,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
+education = []
 #  course = "PhD in Semiconductor Physics, 2014"
 #  institution = "University of Bath, UK"
 #  year = 2014
@@ -74,7 +75,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-
 Our focus is the data-driven discovery of materials and semiconductors. 
 
 This means we use computers to model solids and predict their properties before they have even been made. 
@@ -82,4 +82,3 @@ This means we use computers to model solids and predict their properties before 
 We are mainly interested in materials that can be used for renewable energy and clean technologies, like solar panels.
 
 If you'd like to work with us, or have any feedback, we can be reached anytime via the contact form below.
-
