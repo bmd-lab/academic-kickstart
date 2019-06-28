@@ -94,4 +94,5 @@ See below for a list of group files.
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
+| Group Guide Draft | PDF   | [link](/img/group_guide_draft_1.pdf) |
 | Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
