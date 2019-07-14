@@ -94,7 +94,8 @@ See below for full list of recent news
 
 | News         |          Date  |
 | ------------ |    ----------  | 
-| Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.             |     April 2019     |
+| Lee Burton is a tutorial leader at summer school in materials design [(link)](http://slxy.usts.edu.cn/info/1148/1427.htm) |     August 2019     |
+| Lee Burton was invited speaker at the 6th Asian Materials Data Symposium.             |     April 2019     |
 | Lee Burton begins as Associate Professor at Shanghai University.                        |     February 2019  |
 | Lee Burton wins Eastern Young Scholar award.                                            |     December 2018  |
 
