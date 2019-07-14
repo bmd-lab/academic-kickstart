@@ -57,6 +57,9 @@ address = "Physics Department, E111, Shanghai University, 99 Shangda Road, Shang
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Monday - Friday 9:00 to 17:00 (GMT+8)"
 
+#donate url = "files"
+donate = "[buy us a coffee](donate)"
+
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
 

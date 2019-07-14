@@ -55,10 +55,11 @@
 
       {{ with site.Params.phone }}
       <li>
+	<li style="padding-top:1.1em">
         <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone" itemprop="telephone">
-        {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
-        </span>
+        <span id="person-telephone" itemprop="telephone">{{ . | markdownify | emojify }}</span>
+        <!-- {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}  -->
+        <!--/span> -->
       </li>
       {{ end }}
 
@@ -70,8 +71,15 @@
       {{ end }}
 
       {{ with site.Params.office_hours }}
-      <li>
+      <li style="padding-top:1.1em">
         <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
+        <span>{{ . | markdownify | emojify }}</span>
+      </li>
+      {{ end }}
+
+      {{ with site.Params.donate }}
+      <li style="padding-top:1.1em">
+        <i class="fa-li fas fa-donate fa-2x" aria-hidden="true"></i>
         <span>{{ . | markdownify | emojify }}</span>
       </li>
       {{ end }}
