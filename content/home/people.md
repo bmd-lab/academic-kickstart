@@ -28,7 +28,11 @@ subtitle = ""
    [[content.filter_button]]
      name = "Professor"
      tag = "Professor"
-  
+
+     [[content.filter_button]]
+     name = "Student"
+     tag = "Student"
+
    [[content.filter_button]]
      name = "Support"
      tag = "Support"

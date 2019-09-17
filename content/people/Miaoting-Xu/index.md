@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Lee A. Burton"
+title = "Miaoting Xu"
 
 # Date this page was created.
-date = 2012-06-18T00:00:00
+date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "Lee Burton is the principal investigator of the Materials Data lab. "
+summary = "Miaoting Xu is a masters student of Shanghai University"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Professor"]
+tags = ["Student"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "members/lee/"
+external_link = "members/miaoting/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
