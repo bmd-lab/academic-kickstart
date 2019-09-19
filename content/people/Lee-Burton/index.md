@@ -2,6 +2,8 @@
 # Project title.
 title = "Lee A. Burton"
 
+weight = 5
+
 # Date this page was created.
 date = 2012-06-18T00:00:00
 
