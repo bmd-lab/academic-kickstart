@@ -13,7 +13,7 @@ role = "Professor of BMD"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Shanghai University", url = "" } ]
+organizations = [ { name = "Shanghai University", url = "" }, { name = "leeburton@shu.edu.cn", url = "mailto:leeburton@shu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Professor of BMD"
@@ -46,10 +46,10 @@ bio = "Professor of BMD"
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
