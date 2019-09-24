@@ -2,7 +2,7 @@
 # Display name
 #name = ""
 Title = "Recent news"
-date = 2019-05-17
+date = 2019-09-17
 
 # Username (this should match the folder name)
 #authors = ["Lee"]
@@ -94,8 +94,8 @@ See below for full list of recent news
 
 | News         |          Date  |
 | ------------ |    ----------  | 
-| Lee Burton is a tutorial leader at summer school in materials design [(link)](http://slxy.usts.edu.cn/info/1148/1427.htm) |     August 2019     |
-| Lee Burton was invited speaker at the 6th Asian Materials Data Symposium.             |     April 2019     |
-| Lee Burton begins as Associate Professor at Shanghai University.                        |     February 2019  |
-| Lee Burton wins Eastern Young Scholar award.                                            |     December 2018  |
-
+| Lee Burton is a tutorial leader at summer school in materials design [(link)](http://slxy.usts.edu.cn/info/1148/1427.htm) |     Aug. 2019     |
+| Lee Burton is invited speaker at the 6th Asian Materials Data Symposium.                |     Apr. 2019     |
+| Lee Burton begins as Associate Professor at Shanghai University.                        |     Feb. 2019  |
+| Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.              |     Dec. 2018  |
+| Lee Burton wins European Commission Seal of Excellence Award.                           |     Sep. 2017 |
