@@ -13,6 +13,7 @@ height: 100%
     float:left;
     width:150px;
     height: 100px;
+    margin-bottom: 80px;
 }
 
 #center {
@@ -20,6 +21,7 @@ height: 100%
     margin:0 auto;
     width:278px;
     height: 100px;
+    margin-bottom: 80px;
 }
 
 #right {
