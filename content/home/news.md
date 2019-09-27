@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Featured News"
-subtitle = "For all recent group news click [here](news/full-list)."
+subtitle = "For a list of all group news click [here](news/full-list)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

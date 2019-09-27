@@ -1,7 +1,7 @@
 +++
 # Display name
 #name = ""
-Title = "Recent news"
+Title = "All news"
 date = 2019-09-17
 
 # Username (this should match the folder name)
@@ -86,16 +86,55 @@ date = 2019-09-17
 
 [image]
 #  Caption (optional)
-  caption = "Previous and ongoing collaborations with BMD"
+#  caption = "Previous and ongoing collaborations with BMD"
 
 +++
 
 See below for full list of recent news 
 
-| News         |          Date  |
-| ------------ |    ----------  | 
-| Lee Burton is a tutorial leader at summer school in materials design [(link)](http://slxy.usts.edu.cn/info/1148/1427.htm) |     Aug. 2019     |
-| Lee Burton is invited speaker at the 6th Asian Materials Data Symposium.                |     Apr. 2019     |
-| Lee Burton begins as Associate Professor at Shanghai University.                        |     Feb. 2019  |
-| Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.              |     Dec. 2018  |
-| Lee Burton wins European Commission Seal of Excellence Award.                           |     Sep. 2017 |
+| News         |          Date &nbsp; &nbsp; &nbsp; |
+| ------------ |    ----------        | 
+| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) begin as master students at BMD.                                           |    Sep. &nbsp; 2019    |
+| Lee Burton is a tutorial leader at the Summer School for Computational Materials Design.      (<a  href="javascript:void(0)" id="myBtn1">Photo</a>)            |    Aug.  &nbsp; 2019     |
+| Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.  (<a  href="javascript:void(0)" id="myBtn2">Photo</a>)            |     Apr. &nbsp; 2019    |
+| Lee Burton begins as Associate Professor at Shanghai University.                        |     Feb. &nbsp; 2019  |
+| Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.              |     Dec. &nbsp; 2018  |
+| Lee Burton wins European Commission Seal of Excellence Award.                           |     Sep. &nbsp; 2017  |
+
+
+
+
+<html>
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="theme.css">
+<style>
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+</style>
+</head>
+<body>
+
+<!-- The Modal -->
+<div id="myModal1" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+
+<!-- The Modal -->
+<div id="myModal2" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img02">
+  <div id="caption"></div>
+</div>
+
+<script src="myscript.js"></script> 
+
+</body>
+</html>
+</html>
+

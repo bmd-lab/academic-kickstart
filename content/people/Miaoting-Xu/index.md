@@ -6,7 +6,7 @@ title = "Miaoting Xu"
 date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "Miaoting Xu is a masters student of Shanghai University"
+summary = "Miaoting Xu is a masters student at Shanghai University"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
