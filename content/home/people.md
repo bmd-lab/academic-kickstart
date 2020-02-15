@@ -30,12 +30,12 @@ subtitle = ""
      tag = "Professor"
 
      [[content.filter_button]]
-     name = "Student"
-     tag = "Student"
+     name = "Staff"
+     tag = "Staff"
 
    [[content.filter_button]]
-     name = "Support"
-     tag = "Support"
+     name = "Student"
+     tag = "Student"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
