@@ -10,7 +10,7 @@ summary = "王翠翠是上海大学的硕士学位。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Student"]
+tags = ["学生"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "members/cuicui/"

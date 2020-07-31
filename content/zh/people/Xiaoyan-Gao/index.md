@@ -12,7 +12,7 @@ summary = "高晓燕是小组助理兼管理员。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Staff"]
+tags = ["工作人员"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "members/xiaoyan/"

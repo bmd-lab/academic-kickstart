@@ -12,7 +12,7 @@ summary = "Lee Burton是该小组的首席研究员。 "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Professor"]
+tags = ["教授"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "members/lee/"
