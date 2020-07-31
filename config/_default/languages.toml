@@ -5,16 +5,37 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "BMD-lab"
+  [zh.params]
+    description = "BMD-lab"
+    email = "leeburton@shu.edu.cn"
+    phone = "+86 021 6613 6129"
+    address = "中国上海上大路99号上海大学E110物理系，上海200444"
+    office_hours = "星期一到星期五 9:00 - 17:00"
+    donate = "[给我们买咖啡](donate)"
+  [[zh.menu.main]]
+    name = "人"
+    url = "#people"
+    weight = 1
+  [[zh.menu.main]]
+    name = "新闻"
+    url = "#news"
+    weight = 2
+  [[zh.menu.main]]
+    name = "纸"
+    url = "#featured"
+    weight = 3
+  [[zh.menu.main]]
+    name = "联系"
+    url = "#contact"
+    weight = 4
+  [[zh.menu.main]]
+    name = "档案"
+    url = "#files"
+    weight = 5
