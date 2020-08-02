@@ -1,7 +1,7 @@
 +++
 # Display name
 #name = ""
-Title = "Published papers"
+Title = "发表论文"
 date = 2019-05-17
 
 # Username (this should match the folder name)
@@ -86,31 +86,31 @@ date = 2019-05-17
 
 [image]
   # Caption (optional)
-  caption = "Previous and ongoing collaborations with BMD"
+  caption = "与BMD过去和正在进行的合作"
 
 +++
 
 请看下面完整的已发表论文
 
-| 标题          | 日志           | 年    | 网址 |
+| 标题          | 日志           | 年    | <img width=200/> 网址 |
 | ------------- |-------------  | ----- | ---- |
-| Manipulation of the Rashba effect in layered tellurides MTe (M = Ge, Sn, Pb) | Journal of Materials Chemistry C  | 2020 | [link](https://pubs.rsc.org/--/content/articlelanding/2020/tc/d0tc00003e/unauth#!divAbstract) |
-| Sr<sub>3</sub>CrN<sub>3</sub>: a new electride with a partially filled d-shell transition metal | JACS |  2019 | [link](https://pubs.acs.org/doi/10.1021/jacs.9b03472?hootPostID=93cad032de8db63dab28fb4ee10c777c) |
-| Thermodynamics, electronic structure and vibrational properties of Sn<sub>n</sub>(S<sub>1-x</sub>Se<sub>x</sub>)<sub>m</sub> solid solutions for energy applications | Chemistry of Materials |  2019 | [link](https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.chemmater.9b00362) |
-| High-throughput identification of electrides from all known inorganic materials | Chemistry of Materials |  2018 |  [link](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b02526) |
-| Chemical and lattice stability of the tin sulfides | Journal of Physical Chemistry C |  2017 |  [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581) |
-| Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor | APL Materials |  2017 |  [link](https://aip.scitation.org/doi/abs/10.1063/1.4977868) |
-| Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport | Physical Chemistry Chemical Physics |  2017 |  [link](https://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp01680h) |
-| DFT investigation into the underperformance of sulfide materials in photovoltaic applications | Journal of Materials Chemistry A |  2017 |  [link](https://pubs.rsc.org/en/content/articlehtml/2016/ta/c7ta00673j) |
-| Anharmonicity in the High-Temperature *Cmcm* Phase of SnSe: Soft Modes and Three-Phonon Interactions | Physical Review Letters |  2016 |  [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502) |
-| Electronic Structure and Defect Physics of Tin Sulfides: SnS, Sn<sub>2</sub>S<sub>3</sub>, and SnS<sub>2</sub> | Physical Review Applied |  2016 |  [link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.6.014009) |
-| Discovery of earth-abundant nitride semiconductors by computational screening and high-pressure synthesis | Nature Communications |  2016 |  [link](https://www.nature.com/articles/ncomms11962) |
-| Band Alignments, Valence Bands, and Core Levels in the Tin Sulfides SnS, SnS<sub>2</sub>, and Sn<sub>2</sub>S<sub>3</sub>: Experiment and Theory | Chemistry of Materials |  2016 |  [link](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00397) |
-| Electronic and optical properties of single crystal SnS<sub>2</sub>: an earth-abundant disulfide photocatalyst | Journal of Materials Chemistry A |  2016 |  [link](https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta08214e) |
-| Assessment of polyanion (BF<sup>4-</sup> and PF<sup>6-</sup> ) substitutions in hybrid halide perovskites | Journal of Materials Chemistry A |  2015 |  [link](https://pubs.rsc.org/en/content/articlehtml/2014/ta/c4ta05284f) |
-| Ellipsometric characterization and density-functional theory analysis of anisotropic optical properties of single-crystal α-SnS | Journal of Applied Physics |  2014 |  [link](https://aip.scitation.org/doi/abs/10.1063/1.4886915) |
-| From kesterite to stannite photovoltaics: Stability and band gaps of the Cu2(Zn,Fe)SnS<sub>4</sub> alloy | Applied Physics Letters |  2014 |  [link](https://aip.scitation.org/doi/abs/10.1063/1.4862030) |
-| Synthesis, characterization, and electronic structure of single-crystal SnS, Sn<sub>2</sub>S<sub>3</sub>, and SnS<sub>2</sub> | Chemistry of Materials |  2013 |  [link](https://pubs.acs.org/doi/abs/10.1021/cm403046m)     |
-| Band alignment in SnS thin-film solar cells: Possible origin of the low conversion efficiency | Applied Physics Letters |  2013 |  [link](https://aip.scitation.org/doi/abs/10.1063/1.4801313)     |
-| Phase Stability of the Earth-Abundant Tin Sulfides SnS, SnS<sub>2</sub>, and Sn<sub>2</sub>S<sub>3</sub> | Journal of Physical Chemistry C | 2012 | [link](https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/jp309154s)  |
-| A photoactive titanate with a stereochemically active Sn lone pair: Electronic and crystal structure of Sn<sub>2</sub>TiO<sub>4</sub> from computational chemistry      | Journal of Solid State Chemistry | 2012 | [link](https://www.sciencedirect.com/science/article/pii/S002245961200388X)     |
+| Manipulation of the Rashba effect in layered tellurides MTe (M = Ge, Sn, Pb) | Journal of Materials Chemistry C  | 2020 | [链接](https://pubs.rsc.org/--/content/articlelanding/2020/tc/d0tc00003e/unauth#!divAbstract) |
+| Sr<sub>3</sub>CrN<sub>3</sub>: a new electride with a partially filled d-shell transition metal | JACS |  2019 | [链接](https://pubs.acs.org/doi/10.1021/jacs.9b03472?hootPostID=93cad032de8db63dab28fb4ee10c777c) |
+| Thermodynamics, electronic structure and vibrational properties of Sn<sub>n</sub>(S<sub>1-x</sub>Se<sub>x</sub>)<sub>m</sub> solid solutions for energy applications | Chemistry of Materials |  2019 | [链接](https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.chemmater.9b00362) |
+| High-throughput identification of electrides from all known inorganic materials | Chemistry of Materials |  2018 |  [链接](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b02526) |
+| Chemical and lattice stability of the tin sulfides | Journal of Physical Chemistry C |  2017 |  [链接](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581) |
+| Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor | APL Materials |  2017 |  [链接](https://aip.scitation.org/doi/abs/10.1063/1.4977868) |
+| Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport | Physical Chemistry Chemical Physics |  2017 |  [链接](https://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp01680h) |
+| DFT investigation into the underperformance of sulfide materials in photovoltaic applications | Journal of Materials Chemistry A |  2017 |  [链接](https://pubs.rsc.org/en/content/articlehtml/2016/ta/c7ta00673j) |
+| Anharmonicity in the High-Temperature *Cmcm* Phase of SnSe: Soft Modes and Three-Phonon Interactions | Physical Review Letters |  2016 |  [链接](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502) |
+| Electronic Structure and Defect Physics of Tin Sulfides: SnS, Sn<sub>2</sub>S<sub>3</sub>, and SnS<sub>2</sub> | Physical Review Applied |  2016 |  [链接](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.6.014009) |
+| Discovery of earth-abundant nitride semiconductors by computational screening and high-pressure synthesis | Nature Communications |  2016 |  [链接](https://www.nature.com/articles/ncomms11962) |
+| Band Alignments, Valence Bands, and Core Levels in the Tin Sulfides SnS, SnS<sub>2</sub>, and Sn<sub>2</sub>S<sub>3</sub>: Experiment and Theory | Chemistry of Materials |  2016 |  [链接](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00397) |
+| Electronic and optical properties of single crystal SnS<sub>2</sub>: an earth-abundant disulfide photocatalyst | Journal of Materials Chemistry A |  2016 |  [链接](https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta08214e) |
+| Assessment of polyanion (BF<sup>4-</sup> and PF<sup>6-</sup> ) substitutions in hybrid halide perovskites | Journal of Materials Chemistry A |  2015 |  [链接](https://pubs.rsc.org/en/content/articlehtml/2014/ta/c4ta05284f) |
+| Ellipsometric characterization and density-functional theory analysis of anisotropic optical properties of single-crystal α-SnS | Journal of Applied Physics |  2014 |  [链接](https://aip.scitation.org/doi/abs/10.1063/1.4886915) |
+| From kesterite to stannite photovoltaics: Stability and band gaps of the Cu2(Zn,Fe)SnS<sub>4</sub> alloy | Applied Physics Letters |  2014 |  [链接](https://aip.scitation.org/doi/abs/10.1063/1.4862030) |
+| Synthesis, characterization, and electronic structure of single-crystal SnS, Sn<sub>2</sub>S<sub>3</sub>, and SnS<sub>2</sub> | Chemistry of Materials |  2013 |  [链接](https://pubs.acs.org/doi/abs/10.1021/cm403046m)     |
+| Band alignment in SnS thin-film solar cells: Possible origin of the low conversion efficiency | Applied Physics Letters |  2013 |  [链接](https://aip.scitation.org/doi/abs/10.1063/1.4801313)     |
+| Phase Stability of the Earth-Abundant Tin Sulfides SnS, SnS<sub>2</sub>, and Sn<sub>2</sub>S<sub>3</sub> | Journal of Physical Chemistry C | 2012 | [链接](https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/jp309154s)  |
+| A photoactive titanate with a stereochemically active Sn lone pair: Electronic and crystal structure of Sn<sub>2</sub>TiO<sub>4</sub> from computational chemistry      | Journal of Solid State Chemistry | 2012 | [链接](https://www.sciencedirect.com/science/article/pii/S002245961200388X)     |

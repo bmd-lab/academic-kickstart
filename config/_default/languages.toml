@@ -37,5 +37,5 @@
     weight = 4
   [[zh.menu.main]]
     name = "档案"
-    url = "#files"
+    url = "files"
     weight = 5

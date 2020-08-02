@@ -1,7 +1,7 @@
 +++
 # Display name
 #name = ""
-Title = "All news"
+Title = "所有新闻"
 date = 2019-09-17
 
 # Username (this should match the folder name)
@@ -90,7 +90,7 @@ date = 2019-09-17
 
 +++
 
-See below for full list of recent news 
+请参阅以下最新新闻的完整列表
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
