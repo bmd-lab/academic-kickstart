@@ -93,7 +93,8 @@ date = 2019-09-17
 请参阅以下最新新闻的完整列表
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
-| ------------ |    ----------        | 
+| ------------ |    ----------        |     
+| BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。    (<a  href="javascript:void(0)" id="myBtn5">Link</a>)            |    08 &nbsp; 2020    |
 | Lee Burton是国际材料科学研讨会的特邀演讲者。    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>)                     |    11 &nbsp; 2019    |
 | Lee Burton是第一届计算结构预测和先进材料国际研讨会的特邀演讲者。   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>)   |    10 &nbsp; 2019    |
 | Lee Burton是国际材料基因组学研讨会的特邀演讲者。 (<a  href="javascript:void(0)" id="myBtn3">Photo</a>)                    |    10 &nbsp; 2019    |

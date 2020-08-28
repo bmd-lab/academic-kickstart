@@ -94,10 +94,12 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
+| BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020    |
 | Lee Burton is an invited speaker at the International Symposium on Materials Science.    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>)                                              |    Nov. &nbsp; 2019    |
 | Lee Burton is an invited speaker at the 1st International Symposium on Computational Structure Prediction and Advanced Materials.   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>)   |    Oct. &nbsp; 2019    |
 | Lee Burton is an invited speaker at the International Workshop on Materials Genomics.  (<a  href="javascript:void(0)" id="myBtn3">Photo</a>)                                                |    Oct. &nbsp; 2019    |
 | [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) begin as master students at BMD.                                                                                        |    Sep. &nbsp; 2019    |
+| Lee Burton wins NSFC International Young Scientists Award.                                                                                                                                  |    Aug. &nbsp; 2019    |
 | Lee Burton is a tutorial leader at the Summer School for Computational Materials Design.      (<a  href="javascript:void(0)" id="myBtn1">Photo</a>)                                         |    Aug.  &nbsp; 2019   |
 | Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.  (<a  href="javascript:void(0)" id="myBtn2">Photo</a>)                                                          |     Apr. &nbsp; 2019   |
 | Lee Burton begins as Associate Professor at Shanghai University.                        |     Feb. &nbsp; 2019  |
