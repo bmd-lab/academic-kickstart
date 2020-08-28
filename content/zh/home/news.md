@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "精选新闻"
-subtitle = "有关所有群组新闻的列表，请单击[此处](news/full-list)."
+subtitle = "有关新闻的完整列表，请单击[此处](news/full-list)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
