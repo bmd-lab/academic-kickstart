@@ -94,14 +94,14 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |     
-| BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。    (<a  href="javascript:void(0)" id="myBtn5">Link</a>)            |    08 &nbsp; 2020    |
-| Lee Burton是国际材料科学研讨会的特邀演讲者。    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>)                     |    11 &nbsp; 2019    |
-| Lee Burton是第一届计算结构预测和先进材料国际研讨会的特邀演讲者。   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>)   |    10 &nbsp; 2019    |
-| Lee Burton是国际材料基因组学研讨会的特邀演讲者。 (<a  href="javascript:void(0)" id="myBtn3">Photo</a>)                    |    10 &nbsp; 2019    |
+| BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。    (<a  href="javascript:void(0)" id="myBtn5">链接</a>)   |    08 &nbsp; 2020    |
+| Lee Burton是国际材料科学研讨会的特邀演讲者。    (<a  href="javascript:void(0)" id="myBtn5">照片</a>)                     |    11 &nbsp; 2019    |
+| Lee Burton是第一届计算结构预测和先进材料国际研讨会的特邀演讲者。   (<a  href="javascript:void(0)" id="myBtn4">照片</a>)   |    10 &nbsp; 2019    |
+| Lee Burton是国际材料基因组学研讨会的特邀演讲者。 (<a  href="javascript:void(0)" id="myBtn3">照片</a>)                    |    10 &nbsp; 2019    |
 | 徐淼婷和王翠翠两位研究生同学加入BDM课题组。                                                                               |    09 &nbsp; 2019    |
-| Lee Burton是计算材料设计暑期学校的导师。     (<a  href="javascript:void(0)" id="myBtn1">Photo</a>)                       |    08  &nbsp; 2019   |
-| Lee Burton是第六届亚洲材料数据研讨会的特邀演讲者。  (<a  href="javascript:void(0)" id="myBtn2">Photo</a>)                 |    04. &nbsp; 2019   |
-| Lee Burton在上海大学担任副教授。                                                                                         |    02. &nbsp; 2019  |
+| Lee Burton是计算材料设计暑期学校的导师。     (<a  href="javascript:void(0)" id="myBtn1">照片</a>)                       |    08  &nbsp; 2019   |
+| Lee Burton是第六届亚洲材料数据研讨会的特邀演讲者。  (<a  href="javascript:void(0)" id="myBtn2">照片</a>)                 |    04 &nbsp; 2019   |
+| Lee Burton在上海大学担任副教授。                                                                                         |    02 &nbsp; 2019  |
 | Lee Burton获上海市政府东方青年学者奖。                                                                                   |     12 &nbsp; 2018  |
 | Lee Burton获得欧盟委员会优秀奖。                                                                                         |     09 &nbsp; 2017  |
 

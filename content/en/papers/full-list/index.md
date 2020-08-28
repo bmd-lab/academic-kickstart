@@ -94,6 +94,8 @@ See below for full list of papers published
 
 | Title         | Journal       | Year  | URL |
 | ------------- |-------------  | ----- | ---- |
+| Sn 5s<sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation | Physical Review Materials | 2020 |[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602) |
+| Electrides: a review | Journal of Materials Chemistry C | 2020 | [link](https://pubs.rsc.org/lv/content/articlehtml/2020/tc/d0tc01165g) |
 | Manipulation of the Rashba effect in layered tellurides MTe (M = Ge, Sn, Pb) | Journal of Materials Chemistry C  | 2020 | [link](https://pubs.rsc.org/--/content/articlelanding/2020/tc/d0tc00003e/unauth#!divAbstract) |
 |Sr<sub>3</sub>CrN<sub>3</sub>: a new electride with a partially filled d-shell transition metal | JACS |  2019 | [link](https://pubs.acs.org/doi/10.1021/jacs.9b03472?hootPostID=93cad032de8db63dab28fb4ee10c777c) |
 | Thermodynamics, electronic structure and vibrational properties of Sn<sub>n</sub>(S<sub>1-x</sub>Se<sub>x</sub>)<sub>m</sub> solid solutions for energy applications | Chemistry of Materials |  2019 | [link](https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.chemmater.9b00362) |
