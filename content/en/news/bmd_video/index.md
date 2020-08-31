@@ -1,8 +1,8 @@
 +++
 # Display name
 #name = ""
-Title = "SHU video"
-date = 2019-09-17
+Title = "BMD feature video"
+date = 2019-02-01
 
 # Username (this should match the folder name)
 #authors = ["Lee"]

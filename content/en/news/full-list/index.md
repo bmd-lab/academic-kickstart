@@ -95,7 +95,7 @@ See below for full list of recent news
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
 | BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020 |
-| Shanghai University selects BMD for feature video. [(link)](/news/shu_video)   |    Feb. &nbsp; 2020 |
+| Shanghai University selects BMD for feature video. [(link)](/news/bmd_video)   |    Feb. &nbsp; 2020 |
 | Lee Burton is an invited speaker at the International Symposium on Materials Science.    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>)                                              |    Nov. &nbsp; 2019    |
 | Lee Burton is an invited speaker at the 1st International Symposium on Computational Structure Prediction and Advanced Materials.   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>)   |    Oct. &nbsp; 2019    |
 | Lee Burton is an invited speaker at the International Workshop on Materials Genomics.  (<a  href="javascript:void(0)" id="myBtn3">Photo</a>)                                                |    Oct. &nbsp; 2019    |
