@@ -78,10 +78,10 @@ bio = "Research assistant of BMD"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "/Yu_CV.pdf"
 
 [advanced]
  # Custom CSS.
@@ -93,4 +93,6 @@ bio = "Research assistant of BMD"
 +++
 
 Yu Ding is from Jiangsu province. He obtained his bachelor's degree in Chemical Engineering in 2017 from Jiangsu Ocean University and a master's degree in Green Chemistry in 2020 from the University of Shanghai for Science and Technology, respectively. His previous work was finding the optical thermal probes based on phosphors with dual emission centers and now he's working as the research assistant in BMD.
+
+Yu's CV can be viewed [here](/img/Yu_CV)
 
