@@ -1,5 +1,5 @@
 +++
-title = "High-Throughput Identification of Electrides from All Known Inorganic Materials"
+title = "Data-Mining Element Charges in Inorganic Materials"
 date = 2018-10-10 
 #T00:00:00
 
@@ -20,17 +20,17 @@ authors = [""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Chemistry of Materials*, 2018, 30 (21), 7521"
+publication = "*Journal of Physical Chemistry Letters*, 2020, 11 19, 8264"
 publication_short = ""
 
 # Abstract.
-abstract = "在本文中，我们提出了在所有已知的无机材料中进行大规模，高通量计算搜索的结果。分析密度泛函理论的数据库得出的关于60,000多种化合物的信息，我们确定了65个新的候选候选物，并回收了4个已知的候选物。我们将报告所有这些候选物，并讨论导致电子形成的结构和化学因素。在这些候选物中，我们的工作确定了第一个部分填充的3d过渡金属含Ba3CrN3和Sr3CrN3的电子，这是与常规化学相悖的意外发现。"
+abstract = "In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds."
 
 # Summary. An optional shortened abstract.
-summary = "通过分析包含60,000多种化合物的数据库，我们确定了65个新的候选候选物，并回收了4个已知的候选物。"
+summary = "Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
 
 # Digital Object Identifier (DOI)
-doi = "10.1021/acs.chemmater.8b02526"
+doi = "10.1021/acs.jpclett.0c02072"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -78,4 +78,4 @@ url_source = ""
   focal_point = ""
 +++
 
-在本文中，我们提出了在所有已知的无机材料中进行大规模，高通量计算搜索的结果。分析密度泛函理论的数据库得出的关于60,000多种化合物的信息，我们确定了65个新的候选候选碳，并回收了4个已知的候选碳。我们将报告所有这些候选物，并讨论导致电子形成的结构和化学因素。在这些候选对象中，我们的工作确定了第一个部分填充的3d过渡金属含钴Ba<sub>3</sub>CrN<sub>3</sub>和Sr<sub>3</sub>CrN<sub>3</sub>，这是与常规化学方法相悖的意外发现。
+In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds.
