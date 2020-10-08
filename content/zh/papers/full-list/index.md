@@ -94,6 +94,11 @@ date = 2019-05-17
 
 | 标题          | 日志           | 年    | <img width=200/> 网址 |
 | ------------- |-------------  | ----- | ---- |
+| Data-Mining Element Charges in Inorganic Materials | The Journal of Physical Chemistry Letters | 2020 | [链接](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c02072)
+| Sn 5s<sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation | Physical Review Materials | 2020 |[链接](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602) |
+| Electrides: a review | Journal of Materials Chemistry C | 2020 | [链接](https://pubs.rsc.org/lv/content/articlehtml/2020/tc/d0tc01165g) |
+| Manipulation of the Rashba effect in layered tellurides MTe (M = Ge, Sn, Pb) | Journal of Materials Chemistry C  | 2020 | [链接](https://pubs.rsc.org/--/content/articlelanding/2020/tc/d0tc00003e/unauth#!divAbstract) |
+| Sr<sub>3</sub>CrN<sub>3</sub>: a new electride with a partially filled d-shell transition metal | JACS |  2019 | [链接](https://pubs.acs.org/doi/10.1021/jacs.9b03472?hootPostID=93cad032de8db63dab28fb4ee10c777c) |
 | Sn 5s<sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation | Physical Review Materials | 2020 |[链接](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602) |
 | Electrides: a review | Journal of Materials Chemistry C | 2020 | [链接](https://pubs.rsc.org/lv/content/articlehtml/2020/tc/d0tc01165g) |
 | Manipulation of the Rashba effect in layered tellurides MTe (M = Ge, Sn, Pb) | Journal of Materials Chemistry C  | 2020 | [链接](https://pubs.rsc.org/--/content/articlelanding/2020/tc/d0tc00003e/unauth#!divAbstract) |
