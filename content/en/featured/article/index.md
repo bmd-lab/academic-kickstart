@@ -56,7 +56,7 @@ projects = []
 #slides = "example"
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1801.02948.pdf"
+url_pdf = "https://arxiv.org/ftp/arxiv/papers/2007/2007.02085.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
