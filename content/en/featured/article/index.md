@@ -1,5 +1,5 @@
 +++
-title = "High-Throughput Identification of Electrides from All Known Inorganic Materials"
+title = "Data-Mining Element Charges in Inorganic Materials"
 date = 2018-10-10 
 #T00:00:00
 
@@ -20,17 +20,17 @@ authors = [""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Chemistry of Materials*, 2018, 30 (21), 7521"
+publication = "*Journal of Physical Chemistry Letters*, 2020, 11 19, 8264"
 publication_short = ""
 
 # Abstract.
-abstract = "In this paper, we present the results of a large-scale, high-throughput computational search for electrides among all known inorganic materials. Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known. We report on all these candidates and discuss the structural and chemical factors leading to electride formation. Among these candidates, our work identifies the first partially filled 3d transition-metal-containing electrides Ba3CrN3 and Sr3CrN3, an unexpected finding that contravenes conventional chemistry."
+abstract = "In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds."
 
 # Summary. An optional shortened abstract.
 summary = "Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
 
 # Digital Object Identifier (DOI)
-doi = "10.1021/acs.chemmater.8b02526"
+doi = "10.1021/acs.jpclett.0c02072"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -78,4 +78,4 @@ url_source = ""
   focal_point = ""
 +++
 
-In this paper, we present the results of a large-scale, high-throughput computational search for electrides among all known inorganic materials. Analyzing a database of density functional theory results on more than 60,000 compounds, we identify 65 new electride candidates and recover 4 already known. We report on all these candidates and discuss the structural and chemical factors leading to electride formation. Among these candidates, our work identifies the first partially filled 3d transition-metal-containing electrides Ba<sub>3</sub>CrN<sub>3</sub> and Sr<sub>3</sub>CrN<sub>3</sub>, an unexpected finding that contravenes conventional chemistry.
+In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds.
