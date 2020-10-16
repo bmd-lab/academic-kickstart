@@ -27,7 +27,7 @@ publication_short = ""
 abstract = "在本文中，我们对超过168,000个晶体学报告进行数据挖掘，以找到每种元素的最佳电荷分配。通过这样做，我们发现了教材化学与材料中观察到的带电状态之间的差异。我们继续展示我们推荐的氧化态如何显着促进材料发现和新型无机化合物的启发式设计。"
 
 # Summary. An optional shortened abstract.
-summary = "Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
+summary = "在本文中，我们对超过168,000个晶体学报告进行数据挖掘，以找到每种元素的最佳电荷分配。"
 
 # Digital Object Identifier (DOI)
 doi = "10.1021/acs.jpclett.0c02072"

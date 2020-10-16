@@ -27,7 +27,7 @@ publication_short = ""
 abstract = "In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds."
 
 # Summary. An optional shortened abstract.
-summary = "Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known."
+summary = "In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element."
 
 # Digital Object Identifier (DOI)
 doi = "10.1021/acs.jpclett.0c02072"
