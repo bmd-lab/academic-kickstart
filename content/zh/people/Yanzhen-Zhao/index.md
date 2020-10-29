@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "赵艳珍"
+title = "赵彦祯"
 
 weight = 35
 
@@ -8,7 +8,7 @@ weight = 35
 date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "赵艳珍是上海大学的硕士学位。"
+summary = "赵彦祯是上海大学的硕士学位。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "赵艳珍"
+name = "赵彦祯"
 
 # Username (this should match the folder name)
 authors = ["yanzhenzhao"]
@@ -92,4 +92,4 @@ bio = "BMD学生"
 
 +++
 
-赵艳珍来自河南省。她毕业于安阳师范大学，获得物理学学位。现在，她是上海大学物理系的学生。
+赵彦祯来自河南省。她毕业于安阳师范大学，获得物理学学位。现在，她是上海大学物理系的学生。

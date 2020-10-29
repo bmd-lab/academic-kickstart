@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "姚志坤"
+title = "尧志坤"
 
 weight = 30
 
@@ -8,7 +8,7 @@ weight = 30
 date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "姚志坤是上海大学的硕士学位。"
+summary = "尧志坤是上海大学的硕士学位。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

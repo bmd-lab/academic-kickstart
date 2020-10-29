@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "姚志坤"
+name = "尧志坤"
 
 # Username (this should match the folder name)
 authors = ["zhikunyao"]
@@ -92,4 +92,4 @@ bio = "BMD学生"
 
 +++
 
-姚志坤来自江西。他毕业于上饶师范学院物理学专业。现在，他是上海大学量子与分子结构国际研究中心的学生。
+尧志坤来自江西。他毕业于上饶师范学院物理学专业。现在，他是上海大学量子与分子结构国际研究中心的学生。

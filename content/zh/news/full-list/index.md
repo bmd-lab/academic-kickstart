@@ -95,6 +95,7 @@ date = 2019-09-17
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |     
 | BMD文章被选为Journal of Physical Chemistry Letters [的封面](/img/cover_jphyschemlett.jpg)。(<a  href="https://pubs.acs.org/toc/jpclcd/11/19">链接</a>)   |    10/ &nbsp; 2020 |
+| [尧志坤](/members/zhikunyao)和[赵彦祯](/members/yanzhenzhao)两位研究生同学加入BDM课题组。 |  09/ &nbsp; 2020 |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。 (<a  href="https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract">链接</a>)   |    08/ &nbsp; 2020    |
 | [丁宇](/members/yuding)开始担任BMD的研究助理 | 04/ &nbsp; 2020 |
 | 上海大学选择BMD作为特色视频。[(链接)](/news/bmd_video)                                                                   |    02/ &nbsp; 2020 |

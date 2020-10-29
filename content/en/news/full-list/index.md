@@ -95,6 +95,7 @@ See below for full list of recent news
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |
+| [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                                                        |    Sep. &nbsp; 2020    |
 | BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020 |
 | [Yu Ding](/members/yuding) begins as research assistant at BMD. | Apr. 2020    |
 | Shanghai University selects BMD for feature video. [(link)](/news/bmd_video)   |    Feb. &nbsp; 2020 |
