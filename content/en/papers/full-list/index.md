@@ -94,6 +94,7 @@ See below for full list of papers published
 
 | Title         | Journal       | Year  | URL |
 | ------------- |-------------  | ----- | ---- |
+| Huge Piezoelectric Response of LaN-based Superlattices | ACS Applied Materials & Interfaces | 2020 | [link](https://pubs.acs.org/doi/abs/10.1021/acsami.0c14969)
 | Data-mining element charges in inorganic materials | Journal of Physical Chemistry Letters | 2020 | [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c02072)
 | Sn 5s<sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation | Physical Review Materials | 2020 |[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602) |
 | Electrides: a review | Journal of Materials Chemistry C | 2020 | [link](https://pubs.rsc.org/lv/content/articlehtml/2020/tc/d0tc01165g) |
