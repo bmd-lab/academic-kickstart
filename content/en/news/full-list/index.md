@@ -93,7 +93,9 @@ date = 2019-09-17
 See below for full list of recent news 
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
-| ------------ |    ----------        | 
+| ------------ |    ----------        |
+| Lee Burton is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
+| Lee Burton wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020 | Nov. &nbsp; 2020 |
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |
 | [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                                                        |    Sep. &nbsp; 2020    |
 | BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020 |

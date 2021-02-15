@@ -93,7 +93,9 @@ date = 2019-09-17
 请参阅以下最新新闻的完整列表
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
-| ------------ |    ----------        |     
+| ------------ |    ----------        |  
+| Lee Burton是英国谢菲尔德大学的部门研讨会的邀请演讲者。 | 12/ &nbsp; 2020 | 
+| Lee Burton赢得皇家化学学会（RSC）小型设备研究基金，2020年。 | 11/ &nbsp; 2020 |   
 | BMD文章被选为Journal of Physical Chemistry Letters [的封面](/img/cover_jphyschemlett.jpg)。(<a  href="https://pubs.acs.org/toc/jpclcd/11/19">链接</a>)   |    10/ &nbsp; 2020 |
 | [尧志坤](/members/zhikunyao)和[赵彦祯](/members/yanzhenzhao)两位研究生同学加入BDM课题组。 |  09/ &nbsp; 2020 |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。 (<a  href="https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract">链接</a>)   |    08/ &nbsp; 2020    |
