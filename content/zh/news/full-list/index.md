@@ -86,7 +86,7 @@ date = 2019-09-17
 
 [image]
 #  Caption (optional)
-#  caption = "Previous and ongoing collaborations with BMD"
+  caption = "Previous and ongoing collaborations with BMD"
 
 +++
 
