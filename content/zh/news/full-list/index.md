@@ -86,14 +86,15 @@ date = 2019-09-17
 
 [image]
 #  Caption (optional)
-  caption = "Previous and ongoing collaborations with BMD"
+#  caption = "Previous and ongoing collaborations with BMD"
 
 +++
 
 请参阅以下最新新闻的完整列表
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
-| ------------ |    ----------        |  
+| ------------ |    ----------        | 
+| [徐淼婷](/members/miaoting)和[王翠翠](/members/cuicui)出席新兴电子材料与器件物理国际研讨会。(<a  href="javascript:void(0)" id="myBtn7">照片</a>) | 06/ &nbsp; 2020 |
 | Lee Burton是英国谢菲尔德大学的部门研讨会的邀请演讲者。 | 12/ &nbsp; 2020 | 
 | Lee Burton赢得皇家化学学会（RSC）小型设备研究基金，2020年。 | 11/ &nbsp; 2020 |   
 | BMD文章被选为Journal of Physical Chemistry Letters [的封面](/img/cover_jphyschemlett.jpg)。(<a  href="https://pubs.acs.org/toc/jpclcd/11/19">链接</a>)   |    10/ &nbsp; 2020 |

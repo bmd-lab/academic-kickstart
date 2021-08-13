@@ -86,7 +86,7 @@ date = 2019-09-17
 
 [image]
 #  Caption (optional)
-  caption = "Previous and ongoing collaborations with BMD"
+#  caption = "Previous and ongoing collaborations with BMD"
 
 +++
 
@@ -94,6 +94,7 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
+| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | Jun.  &nbsp; 2021
 | Lee Burton is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
 | Lee Burton wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020 | Nov. &nbsp; 2020 |
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |
