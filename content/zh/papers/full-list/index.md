@@ -94,6 +94,7 @@ date = 2019-05-17
 
 | 标题          | 日志           | 年    | <img width=200/> 网址 |
 | ------------- |-------------  | ----- | ---- |
+| High-Temperature Quantum Anomalous Hall Effect in Electride Gadolinium Monohalides | Journal of Materials Chemistry C |2021 | [链接](https://pubs.rsc.org/en/content/articlelanding/2021/TC/D1TC01513C)
 | Huge Piezoelectric Response of LaN-based Superlattices | ACS Applied Materials & Interfaces | 2020 | [链接](https://pubs.acs.org/doi/abs/10.1021/acsami.0c14969)
 | Data-Mining Element Charges in Inorganic Materials | Journal of Physical Chemistry Letters | 2020 | [链接](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c02072)
 | Sn 5s<sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation | Physical Review Materials | 2020 |[链接](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602) |
