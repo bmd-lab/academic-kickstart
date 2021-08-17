@@ -86,7 +86,7 @@ date = 2019-05-17
 
 [image]
   # Caption (optional)
-  caption = "与BMD过去和正在进行的合作"
+  # caption = "与BMD过去和正在进行的合作"
 
 +++
 
