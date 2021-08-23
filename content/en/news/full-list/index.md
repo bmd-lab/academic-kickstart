@@ -94,11 +94,12 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
-| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | Jun.  &nbsp; 2021
+| [Michael Staines](/members/michaelstaines) begins as research intern at BMD.                                                    |    Jun. &nbsp; 2021    |
+| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | May  &nbsp; 2021
 | Lee Burton is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
 | Lee Burton wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020 | Nov. &nbsp; 2020 |
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |
-| [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                                                        |    Sep. &nbsp; 2020    |
+| [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                    |    Sep. &nbsp; 2020    |
 | BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020 |
 | [Yu Ding](/members/yuding) begins as research assistant at BMD. | Apr. 2020    |
 | Shanghai University selects BMD for feature video. [(link)](/news/bmd_video)   |    Feb. &nbsp; 2020 |

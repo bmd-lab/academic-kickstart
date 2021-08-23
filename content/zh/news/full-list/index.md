@@ -94,20 +94,21 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
-| [徐淼婷](/members/miaoting)和[王翠翠](/members/cuicui)出席新兴电子材料与器件物理国际研讨会。(<a  href="javascript:void(0)" id="myBtn7">照片</a>) | 06/ &nbsp; 2020 |
+| [Michael Staines](/zh/members/michaelstaines)开始在 BMD 担任研究实习生。                                                    |    06/ &nbsp; 2021    |
+| [徐淼婷](/zh/members/miaoting)和[王翠翠](/zh/members/cuicui)出席新兴电子材料与器件物理国际研讨会。(<a  href="javascript:void(0)" id="myBtn7">照片</a>) | 05/ &nbsp; 2020 |
 | Lee Burton是英国谢菲尔德大学的部门研讨会的邀请演讲者。 | 12/ &nbsp; 2020 | 
 | Lee Burton赢得皇家化学学会（RSC）小型设备研究基金，2020年。 | 11/ &nbsp; 2020 |   
 | BMD文章被选为Journal of Physical Chemistry Letters [的封面](/img/cover_jphyschemlett.jpg)。(<a  href="https://pubs.acs.org/toc/jpclcd/11/19">链接</a>)   |    10/ &nbsp; 2020 |
-| [尧志坤](/members/zhikunyao)和[赵彦祯](/members/yanzhenzhao)两位研究生同学加入BDM课题组。 |  09/ &nbsp; 2020 |
+| [尧志坤](/zh/members/zhikunyao)和[赵彦祯](/zh/members/yanzhenzhao)两位研究生同学加入BDM课题组。 |  09/ &nbsp; 2020 |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf)。 (<a  href="https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract">链接</a>)   |    08/ &nbsp; 2020    |
-| [丁宇](/members/yuding)开始担任BMD的研究助理 | 04/ &nbsp; 2020 |
+| [丁宇](/zh/members/yuding)开始担任BMD的研究助理                                                                         | 04/ &nbsp; 2020 |
 | 上海大学选择BMD作为特色视频。[(链接)](/news/bmd_video)                                                                   |    02/ &nbsp; 2020 |
 | Lee Burton是昆腾国际前沿研讨会的主席  (<a  href="javascript:void(0)" id="myBtn6">照片</a>)                              | 11/ &nbsp; 2019  |
 | Lee Burton是国际材料科学研讨会的特邀演讲者。    (<a  href="javascript:void(0)" id="myBtn5">照片</a>)                     |    11/ &nbsp; 2019    |
 | Lee Burton是第一届计算结构预测和先进材料国际研讨会的特邀演讲者。   (<a  href="javascript:void(0)" id="myBtn4">照片</a>)   |    10/ &nbsp; 2019    |
 | Lee Burton是国际材料基因组学研讨会的特邀演讲者。 (<a  href="javascript:void(0)" id="myBtn3">照片</a>)                    |    10/ &nbsp; 2019    |
-| [徐淼婷](/members/miaoting)和[王翠翠](/members/cuicui)两位研究生同学加入BDM课题组。                                                                               |    09/ &nbsp; 2019    |
-| Lee Burton是计算材料设计暑期学校的导师。     (<a  href="javascript:void(0)" id="myBtn1">照片</a>)                       |    08/  &nbsp; 2019   |
+| [徐淼婷](/zh/members/miaoting)和[王翠翠](/members/cuicui)两位研究生同学加入BDM课题组。                                   |    09/ &nbsp; 2019    |
+| Lee Burton是计算材料设计暑期学校的导师。     (<a  href="javascript:void(0)" id="myBtn1">照片</a>)                        |    08/  &nbsp; 2019   |
 | Lee Burton是第六届亚洲材料数据研讨会的特邀演讲者。  (<a  href="javascript:void(0)" id="myBtn2">照片</a>)                 |    04/ &nbsp; 2019   |
 | Lee Burton在上海大学担任副教授。                                                                                         |    02/ &nbsp; 2019  |
 | Lee Burton获上海市政府东方青年学者奖。                                                                                   |     12/ &nbsp; 2018  |
