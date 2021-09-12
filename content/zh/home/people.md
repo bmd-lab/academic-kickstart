@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "人"
-subtitle = ""
+subtitle = "对于以前的小组成员，请单击[此处](alumni/full-list)"
 
 [content]
   # Page type to display. E.g. project.

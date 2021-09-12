@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "People"
-subtitle = ""
+subtitle = "For previous group members click [here](alumni/full-list)."
 
 [content]
   # Page type to display. E.g. project.
