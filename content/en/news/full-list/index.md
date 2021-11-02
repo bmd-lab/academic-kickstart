@@ -94,8 +94,10 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
+| [Wenjun Zhang](/members/wenjunzhang) begins as master student at BMD.                                                           | Sep. &nbsp; 2021    |
+| [Yu Ding](/members/yuding) finishes as research assistant at BMD.                                                               | Aug. &nbsp; 2021    |
 | [Michael Staines](/members/michaelstaines) begins as research intern at BMD.                                                    |    Jun. &nbsp; 2021    |
-| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | May  &nbsp; 2021
+| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | May  &nbsp; 2021 |
 | Lee Burton is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
 | Lee Burton wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020 | Nov. &nbsp; 2020 |
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |

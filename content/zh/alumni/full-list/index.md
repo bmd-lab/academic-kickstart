@@ -94,6 +94,7 @@ date = 2019-09-17
 
 | 姓名         |          工作  &nbsp; &nbsp; &nbsp; |         日期  &nbsp; &nbsp; |
 | ------------ |    ----------        |  --------------------------- |
+| [Michael Staines](/zh/members/michaelstaines)     |     实习生        |    06/2021 - 09/2021    |
 | [丁宇](/zh/members/yuding)     |     研究助理      |    04/2020 - 09/2021    |
 
 <html>

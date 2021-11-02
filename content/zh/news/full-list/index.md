@@ -94,6 +94,8 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
+| [Wenjun Zhang](/zh/members/wenjunzhang)张文君开始在BMD攻读硕士。                                                           | 09/ &nbsp; 2021    |
+| [丁宇](/zh/members/yuding)在BMD担任研究助理。                                                                              | 08/ &nbsp; 2021    |
 | [Michael Staines](/zh/members/michaelstaines)开始在 BMD 担任研究实习生。                                                    |    06/ &nbsp; 2021    |
 | [徐淼婷](/zh/members/miaoting)和[王翠翠](/zh/members/cuicui)出席新兴电子材料与器件物理国际研讨会。(<a  href="javascript:void(0)" id="myBtn7">照片</a>) | 05/ &nbsp; 2020 |
 | Lee Burton是英国谢菲尔德大学的部门研讨会的邀请演讲者。 | 12/ &nbsp; 2020 | 

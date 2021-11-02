@@ -1,7 +1,7 @@
 +++
 # Display name
 #name = ""
-Title = "组文档"
+Title = "Group Resources"
 date = 2019-05-17
 
 # Username (this should match the folder name)
@@ -15,7 +15,7 @@ date = 2019-05-17
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "上海大学", url = "" } ]
+#organizations = [ { name = "Shanghai University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = ""
@@ -90,10 +90,11 @@ date = 2019-05-17
 
 +++
 
-参见下面的组文件列表。
+See below for a list of group resources.
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| 团体指南 | PDF   | [link](/img/group_guide_draft_1.pdf) |
-| Lee Burton的简历 | PDF   | [link](/img/Lee_CV.pdf) |
-| Lee Burton 的博士论文 | PDF   | [link](/img/Lee_Thesis.pdf) |
+| Group Guide | PDF   | [link](/img/group_guide_draft_1.pdf) |
+| Group Tutorials | Website   | [link](https://github.com/bmd-lab/tutorials) |
+| Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
+| Lee Burton's PhD Thesis | PDF   | [link](/img/Lee_Thesis.pdf) |
