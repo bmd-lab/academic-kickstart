@@ -94,6 +94,8 @@ See below for full list of papers published
 
 | Title         | Journal       | Year  | URL | Paper |
 | ------------- |-------------  | ----- | ---- | --- |
+| Hydride Ion Intercalation and Conduction in the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Journal of Materials Chemistry C  |  2022 |  [link](https://pubs.rsc.org/en/content/articlelanding/2022/TC/D1TC05850A) | [PDF](/papers/hydride.pdf) |
+| Ultralow Work Function of the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Physical Chemistry Chemical Physics  |  2022 |  [link](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05623A) | [PDF](/papers/ultralow.pdf) |
 | High-Temperature Quantum Anomalous Hall Effect in Electride Gadolinium Monohalides | Journal of Materials Chemistry C | 2021 | [link](https://pubs.rsc.org/en/content/articlelanding/2021/TC/D1TC01513C) | [PDF](/papers/high_temperature.pdf) |
 | Huge Piezoelectric Response of LaN-based Superlattices | ACS Applied Materials & Interfaces | 2020 | [link](https://pubs.acs.org/doi/abs/10.1021/acsami.0c14969) | [PDF](/papers/huge.pdf) |
 | Data-mining element charges in inorganic materials | Journal of Physical Chemistry Letters | 2020 | [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c02072) | [PDF](/papers/data_mining.pdf) |
