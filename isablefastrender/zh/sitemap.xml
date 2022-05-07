@@ -123,8 +123,38 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/zh/publication_types/2/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/authors/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/authors/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -134,6 +164,111 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/featured/article/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/featured/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/featured/article/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/papers/journal-article/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/papers/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/papers/journal-article/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/tags/materials/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/tags/materials/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/featured/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/featured/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/featured/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/papers/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/papers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/papers/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zh/tags/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/tags/"
                 />
   </url>
   
@@ -149,21 +284,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/zh/people/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tags/</loc>
-    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
                 />
   </url>
   
@@ -238,21 +358,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/zh/papers/</loc>
-    <lastmod>2019-05-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/papers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/papers/"
-                />
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/zh/donate/</loc>
     <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -309,21 +414,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/zh/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/authors/"
                 />
   </url>
   
@@ -534,96 +624,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/zh/members/zhikunyao/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/publication_types/2/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/publication_types/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/featured/article/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/featured/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/featured/article/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/papers/journal-article/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/papers/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/papers/journal-article/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/tags/materials/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/materials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/tags/materials/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/publication_types/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/zh/featured/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/featured/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/featured/"
                 />
   </url>
   

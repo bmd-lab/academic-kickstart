@@ -1,6 +1,6 @@
 +++
-title = "Data-Mining Element Charges in Inorganic Materials"
-date = 2018-10-10 
+title = "Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3"
+date = 2022-05-01 
 #T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,17 +20,17 @@ authors = [""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Physical Chemistry Letters*, 2020, 11 19, 8264"
+publication = "*Journal of Materials Chemistry C*, 2022, 10, 6628-6633"
 publication_short = ""
 
 # Abstract.
-abstract = "在本文中，我们对超过168,000个晶体学报告进行数据挖掘，以找到每种元素的最佳电荷分配。通过这样做，我们发现了教材化学与材料中观察到的带电状态之间的差异。我们继续展示我们推荐的氧化态如何显着促进材料发现和新型无机化合物的启发式设计。"
+abstract = "新发现的电子化合物 Sr<sub>3</sub>CrN<sub>3</sub> 具有蜂窝状结构，通道贯穿各处。 发现这些通道具有几乎理想的氢阴离子传输特性，如有史以来报道的最低活化能所证明的那样。 由于氢的普遍可用性，这一发现可能在燃料电池或储能应用中具有重要意义。 更广泛地说，该研究强调了电子产品对清洁能源未来的潜在重要性。"
 
 # Summary. An optional shortened abstract.
-summary = "在本文中，我们对超过168,000个晶体学报告进行数据挖掘，以找到每种元素的最佳电荷分配。"
+summary = "在本文中，我们发现一种新材料可能具有有史以来最理想的氢阴离子传输特性。"
 
 # Digital Object Identifier (DOI)
-doi = "10.1021/acs.jpclett.0c02072"
+doi = "10.1039/D1TC05850A"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -56,7 +56,7 @@ projects = []
 #slides = "example"
 
 # Links (optional).
-url_pdf = "https://arxiv.org/ftp/arxiv/papers/2007/2007.02085.pdf"
+url_pdf = "https://arxiv.org/ftp/arxiv/papers/2112/2112.02326.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -78,4 +78,4 @@ url_source = ""
   focal_point = ""
 +++
 
-在本文中，我们对超过168,000个晶体学报告进行数据挖掘，以找到每种元素的最佳电荷分配。通过这样做，我们发现了教材化学与材料中观察到的带电状态之间的差异。我们继续展示我们推荐的氧化态如何显着促进材料发现和新型无机化合物的启发式设计。
+新发现的电子化合物 Sr<sub>3</sub>CrN<sub>3</sub> 具有蜂窝状结构，通道贯穿各处。 发现这些通道具有几乎理想的氢阴离子传输特性，如有史以来报道的最低活化能所证明的那样。 由于氢的普遍可用性，这一发现可能在燃料电池或储能应用中具有重要意义。 更广泛地说，该研究强调了电子产品对清洁能源未来的潜在重要性。
