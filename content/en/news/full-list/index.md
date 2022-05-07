@@ -94,28 +94,30 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
+| BMD article is selected for [cover](/img/cover_jmatchemc2.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d).   |    May &nbsp; 2022 |
 | [Wenjun Zhang](/members/wenjunzhang) begins as master student at BMD.                                                           | Sep. &nbsp; 2021    |
-| [Yu Ding](/members/yuding) finishes as research assistant at BMD.                                                               | Aug. &nbsp; 2021    |
+| [Michael Staines](/members/michaelstaines) finishes as research intern at BMD.                                                  |    Aug. &nbsp; 2021    |
+| [Yu Ding](/members/yuding) finishes as research assistant at BMD.                                                               | Jul. &nbsp; 2021    |
 | [Michael Staines](/members/michaelstaines) begins as research intern at BMD.                                                    |    Jun. &nbsp; 2021    |
-| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>) | May  &nbsp; 2021 |
-| Lee Burton is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
-| Lee Burton wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020 | Nov. &nbsp; 2020 |
-| BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters. [(link)](https://pubs.acs.org/toc/jpclcd/11/19)   |    Oct. &nbsp; 2020 |
+| [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>). | May  &nbsp; 2021 |
+| [Lee Burton](/members/lee) is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
+| [Lee Burton](/members/lee) wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020. | Nov. &nbsp; 2020 |
+| BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters [(link)](https://pubs.acs.org/toc/jpclcd/11/19).   |    Oct. &nbsp; 2020 |
 | [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                    |    Sep. &nbsp; 2020    |
-| BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C. [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract)   |    Aug. &nbsp; 2020 |
+| BMD article is selected for [cover](/img/cover_jmatchemc.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract).   |    Aug. &nbsp; 2020 |
 | [Yu Ding](/members/yuding) begins as research assistant at BMD. | Apr. 2020    |
-| Shanghai University selects BMD for feature video. [(link)](/news/bmd_video)   |    Feb. &nbsp; 2020 |
-| Lee Burton is session chair at the Quantum International Frontiers Symposium   (<a  href="javascript:void(0)" id="myBtn6">Photo</a>)                                                        | Nov. &nbsp; 2019       |
-| Lee Burton is an invited speaker at the International Symposium on Materials Science.    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>)                                              |    Nov. &nbsp; 2019    |
-| Lee Burton is an invited speaker at the 1st International Symposium on Computational Structure Prediction and Advanced Materials.   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>)   |    Oct. &nbsp; 2019    |
-| Lee Burton is an invited speaker at the International Workshop on Materials Genomics.  (<a  href="javascript:void(0)" id="myBtn3">Photo</a>)                                                |    Oct. &nbsp; 2019    |
+| Shanghai University selects BMD for feature video [(link)](/news/bmd_video).   |    Feb. &nbsp; 2020 |
+| [Lee Burton](/members/lee) is session chair at the Quantum International Frontiers Symposium   (<a  href="javascript:void(0)" id="myBtn6">Photo</a>).                                                        | Nov. &nbsp; 2019       |
+| [Lee Burton](/members/lee) is an invited speaker at the International Symposium on Materials Science    (<a  href="javascript:void(0)" id="myBtn5">Photo</a>).                                              |    Nov. &nbsp; 2019    |
+| [Lee Burton](/members/lee) is an invited speaker at the 1st International Symposium on Computational Structure Prediction and Advanced Materials   (<a  href="javascript:void(0)" id="myBtn4">Photo</a>).   |    Oct. &nbsp; 2019    |
+| [Lee Burton](/members/lee) is an invited speaker at the International Workshop on Materials Genomics  (<a  href="javascript:void(0)" id="myBtn3">Photo</a>).                                                |    Oct. &nbsp; 2019    |
 | [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) begin as master students at BMD.                                                                                        |    Sep. &nbsp; 2019    |
-| Lee Burton wins NSFC International Young Scientists Award.                                                                                                                                  |    Aug. &nbsp; 2019    |
-| Lee Burton is a tutorial leader at the Summer School for Computational Materials Design.      (<a  href="javascript:void(0)" id="myBtn1">Photo</a>)                                         |    Aug.  &nbsp; 2019   |
-| Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.  (<a  href="javascript:void(0)" id="myBtn2">Photo</a>)                                                          |     Apr. &nbsp; 2019   |
-| Lee Burton begins as Associate Professor at Shanghai University.                        |     Feb. &nbsp; 2019  |
-| Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.              |     Dec. &nbsp; 2018  |
-| Lee Burton wins European Commission Seal of Excellence Award.                           |     Sep. &nbsp; 2017  |
+| [Lee Burton](/members/lee) wins NSFC International Young Scientists Award.                                                                                                                                  |    Aug. &nbsp; 2019    |
+| [Lee Burton](/members/lee) is a tutorial leader at the Summer School for Computational Materials Design      (<a  href="javascript:void(0)" id="myBtn1">Photo</a>).                                         |    Aug.  &nbsp; 2019   |
+| [Lee Burton](/members/lee) is an invited speaker at the 6th Asian Materials Data Symposium  (<a  href="javascript:void(0)" id="myBtn2">Photo</a>).                                                          |     Apr. &nbsp; 2019   |
+| [Lee Burton](/members/lee) begins as Associate Professor at Shanghai University.                        |     Feb. &nbsp; 2019  |
+| [Lee Burton](/members/lee) wins Shanghai Municipal Government Eastern Young Scholar Award.              |     Dec. &nbsp; 2018  |
+| [Lee Burton](/members/lee) wins European Commission Seal of Excellence Award.                           |     Sep. &nbsp; 2017  |
 
 
 
