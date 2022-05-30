@@ -94,7 +94,9 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
-| BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc2.pdf) (<a  href="https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d">链接</a>)。   |    05/ &nbsp; 2022    |
+| [Lee Burton](zh/members/lee) 是前沿材料国际会议的分会主席 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 05/ &nbsp; 2022    |
+| BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc2.pdf) (<a  href="https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d">链接</a>)。   |    04/ &nbsp; 2022    |
+| [Lee Burton](zh/members/lee) 受邀作为国际前沿材料会议的组委会成员 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 12/ &nbsp; 2021    |
 | [Wenjun Zhang](/zh/members/wenjunzhang)张文君开始在BMD攻读硕士。                                                           | 09/ &nbsp; 2021    |
 | [Michael Staines](/zh/members/michaelstaines)在BMD完成了研究实习工作。                                                     | 08/ &nbsp; 2021    |
 | [丁宇](/zh/members/yuding)在BMD担任研究助理。                                                                              | 07/ &nbsp; 2021    |

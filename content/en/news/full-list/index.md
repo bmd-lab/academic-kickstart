@@ -94,7 +94,9 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
-| BMD article is selected for [cover](/img/cover_jmatchemc2.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d).   |    May &nbsp; 2022 |
+| [Lee Burton](/members/lee) is session chair at the Internation Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108).             | May &nbsp; 2022    |
+| BMD article is selected for [cover](/img/cover_jmatchemc2.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d).   |    Apr. &nbsp; 2022 |
+| [Lee Burton](/members/lee) is invited as organising committee member to the Internation Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | Dec. &nbsp; 2021    |
 | [Wenjun Zhang](/members/wenjunzhang) begins as master student at BMD.                                                           | Sep. &nbsp; 2021    |
 | [Michael Staines](/members/michaelstaines) finishes as research intern at BMD.                                                  |    Aug. &nbsp; 2021    |
 | [Yu Ding](/members/yuding) finishes as research assistant at BMD.                                                               | Jul. &nbsp; 2021    |
