@@ -94,6 +94,7 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
+| [Lee Burton](/members/lee) is an invited speaker for a departmental seminar at Imperial College London (<a  href="javascript:void(0)" id="myBtn8">Photo</a>).             | July &nbsp; 2022    |
 | [Lee Burton](/members/lee) is session chair at the International Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108).             | May &nbsp; 2022    |
 | BMD article is selected for [cover](/img/cover_jmatchemc2.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d).   |    Apr. &nbsp; 2022 |
 | [Lee Burton](/members/lee) is invited as organising committee member to the International Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | Dec. &nbsp; 2021    |
@@ -102,7 +103,7 @@ See below for full list of recent news
 | [Yu Ding](/members/yuding) finishes as research assistant at BMD.                                                               | Jul. &nbsp; 2021    |
 | [Michael Staines](/members/michaelstaines) begins as research intern at BMD.                                                    |    Jun. &nbsp; 2021    |
 | [Miaoting Xu](/members/miaoting) and [Cuicui Wang](/members/cuicui) attend the International Symposium on Emerging Electronic Materials 2021 (<a  href="javascript:void(0)" id="myBtn7">Photo</a>). | May  &nbsp; 2021 |
-| [Lee Burton](/members/lee) is invited speaker for departmental seminar at University of Sheffield, UK. | Dec. &nbsp; 2020 |
+| [Lee Burton](/members/lee) is an invited speaker for departmental seminar at the University of Sheffield, UK. | Dec. &nbsp; 2020 |
 | [Lee Burton](/members/lee) wins Royal Society of Chemistry (RSC) Small Equipment Research Fund, 2020. | Nov. &nbsp; 2020 |
 | BMD article is selected for [cover](/img/cover_jphyschemlett.jpg) of Journal of Physical Chemistry Letters [(link)](https://pubs.acs.org/toc/jpclcd/11/19).   |    Oct. &nbsp; 2020 |
 | [Yanzhen Zhao](/members/yanzhenzhao) and [Zhikun Yao](/members/zhikunyao) begin as master students at BMD.                                                    |    Sep. &nbsp; 2020    |

@@ -94,6 +94,7 @@ date = 2019-05-17
 
 | 标题          | 日志           | 年    | <img width=200/> 网址 | <img width=200/> 文章 |
 | ------------- |-------------  | ----- | ---- | ---- |
+| Anomalous ferroelectricity and double-negative effects in bilayer hexagonal boron nitride | Physical Review B  |  2022 |  [链接](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.054104) | [PDF](/papers/anomalous.pdf) |
 | Hydride Ion Intercalation and Conduction in the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Journal of Materials Chemistry C  |  2022 |  [链接](https://pubs.rsc.org/en/content/articlelanding/2022/TC/D1TC05850A) | [PDF](/papers/hydride.pdf) |
 | Ultralow Work Function of the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Physical Chemistry Chemical Physics  |  2022 |  [链接](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05623A) | [PDF](/papers/ultralow.pdf) |
 | High-Temperature Quantum Anomalous Hall Effect in Electride Gadolinium Monohalides | Journal of Materials Chemistry C |2021 | [链接](https://pubs.rsc.org/en/content/articlelanding/2021/TC/D1TC01513C) | [PDF](/papers/high_temperature.pdf) |

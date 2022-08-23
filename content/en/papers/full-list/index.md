@@ -94,6 +94,7 @@ See below for full list of papers published
 
 | Title         | Journal       | Year  | URL | Paper |
 | ------------- |-------------  | ----- | ---- | --- |
+| Anomalous ferroelectricity and double-negative effects in bilayer hexagonal boron nitride | Physical Review B  |  2022 |  [link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.054104) | [PDF](/papers/anomalous.pdf) |
 | Hydride Ion Intercalation and Conduction in the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Journal of Materials Chemistry C  |  2022 |  [link](https://pubs.rsc.org/en/content/articlelanding/2022/TC/D1TC05850A) | [PDF](/papers/hydride.pdf) |
 | Ultralow Work Function of the Electride Sr<sub>3</sub>CrN<sub>3</sub> | Physical Chemistry Chemical Physics  |  2022 |  [link](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05623A) | [PDF](/papers/ultralow.pdf) |
 | High-Temperature Quantum Anomalous Hall Effect in Electride Gadolinium Monohalides | Journal of Materials Chemistry C | 2021 | [link](https://pubs.rsc.org/en/content/articlelanding/2021/TC/D1TC01513C) | [PDF](/papers/high_temperature.pdf) |

@@ -94,6 +94,7 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
+| [Lee Burton](/members/lee) 是伦敦帝国理工学院部门研讨会的特邀演讲者 (<a  href="javascript:void(0)" id="myBtn8">照片</a>).             | 07/ &nbsp; 2022    |
 | [Lee Burton](zh/members/lee) 是前沿材料国际会议的分会主席 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 05/ &nbsp; 2022    |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc2.pdf) (<a  href="https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d">链接</a>)。   |    04/ &nbsp; 2022    |
 | [Lee Burton](zh/members/lee) 受邀作为国际前沿材料会议的组委会成员 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 12/ &nbsp; 2021    |
