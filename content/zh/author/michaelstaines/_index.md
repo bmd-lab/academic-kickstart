@@ -92,4 +92,4 @@ bio = "Student of BMD"
 
 +++
 
-Michael Staines是英国苏塞克斯大学的硕士生。 他的第三年项目是关于密度泛函理论在太阳能中的应用。 现在他希望专攻计算化学。 
+Michael Staines 是英国苏塞克斯大学的硕士生。 他第三年的项目是密度泛函理论在太阳能中的应用。 在完成 BMD 后，Michael 继续在英国牛津大学与 Saiful Islam 一起工作。

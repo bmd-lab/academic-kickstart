@@ -94,6 +94,8 @@ See below for full list of previous group members
 
 | Name         |          Role &nbsp; &nbsp; &nbsp; |         Dates  &nbsp; &nbsp; |
 | ------------ |    ----------        |  --------------------------- |
+| [Miaoting Xu](/members/miaoting)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |
+| [Cuicui Wang](/members/cuicui)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |
 | [Michael Staines](/members/michaelstaines)     |     Research  Intern       |    Jun. 2021 - Sept. 2021    |
 | [Yu Ding](/members/yuding)     |     Research  Assistant       |    Apr. 2020 - Sept. 2021    |
 

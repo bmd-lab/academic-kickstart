@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Michael Staines"
+name = "Yanle Liang"
 
 # Username (this should match the folder name)
-authors = ["michaelstaines"]
+authors = ["yanleliang"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Intern at BMD"
+role = "Student of BMD"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -79,9 +79,9 @@ bio = "Student of BMD"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+   icon = "cv"
+   icon_pack = "ai"
+   link = "/img/Yu_CV.pdf"
 
 [advanced]
  # Custom CSS.
@@ -92,4 +92,5 @@ bio = "Student of BMD"
 
 +++
 
-Michael Staines was a masters student at Sussex University, UK. His third year project was on the application of density functional theory to solar energy. After finishing at BMD, Michael went on to work with Saiful Islam at Oxford University in the UK.
+Yanle Liang is from Shanghai. He graduated from Shanghai Normal University with a major in Physics Education. Now he is a student in the International Research Center for Quantum and Molecular Structure of Shanghai University.
+

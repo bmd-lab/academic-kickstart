@@ -1,21 +1,21 @@
 +++
 # Project title.
-title = "徐淼婷"
+title = "梁严乐"
 
-weight = 25
+weight = 75
 
 # Date this page was created.
 date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "徐妙婷是上海大学的硕士学位。"
+summary = "毕业于上海师范大学物理教育专业。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["学生"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "members/miaoting/"
+external_link = "members/yanleliang/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "Michael Staines"
+name = "梁严乐"
 
 # Username (this should match the folder name)
-authors = ["michaelstaines"]
+authors = ["yanleliang"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Intern at BMD"
+role = "BMD学生"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Shanghai University", url = "" } ]
+organizations = [ { name = "上海大学", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Student of BMD"
+bio = "BMD学生"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = ""
@@ -92,4 +92,4 @@ bio = "Student of BMD"
 
 +++
 
-Michael Staines was a masters student at Sussex University, UK. His third year project was on the application of density functional theory to solar energy. After finishing at BMD, Michael went on to work with Saiful Islam at Oxford University in the UK.
+梁严乐来自上海。毕业于上海师范大学物理教育专业。现为上海大学量子与分子国际研究中心学生。

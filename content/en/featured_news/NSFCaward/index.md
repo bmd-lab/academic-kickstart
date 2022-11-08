@@ -1,7 +1,7 @@
 +++
-title = "Lee Burton wins NSFC International Young Scientists award 2019"
+title = "Lee Burton wins NSFC Young Scientists award 2022"
 subtitle = "The National Science Foundation of China (NSFC) award for international young scientists in China."
-weight = 20  # Order that this section will appear in.
+weight = 10  # Order that this section will appear in.
 
 date = 2019-04-20T00:00:00  # Schedule a publish date
 lastmod = 2019-04-17T00:00:00  # Date last modified

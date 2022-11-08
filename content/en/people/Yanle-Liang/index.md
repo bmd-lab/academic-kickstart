@@ -1,21 +1,21 @@
 +++
 # Project title.
-title = "Cuicui Wang"
+title = "Yanle Liang"
 
-weight = "20"
+weight = 75
 
 # Date this page was created.
 date = 2019-09-17T00:00:00
 
 # Project summary to display on homepage.
-summary = "Cuicui Wang is a masters student at Shanghai University "
+summary = "Yanle Liang is a masters student at Shanghai University"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Student"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "members/cuicui/"
+external_link = "members/yanleliang/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

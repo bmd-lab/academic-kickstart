@@ -1,7 +1,7 @@
 +++
-title = "李·伯顿（Lee Burton）荣获2022年国家自然科学基金国际青年科学家奖"
-subtitle = "中国国家科学基金（NSFC）奖，奖励在中国的国际青年科学家。"
-weight = 10  # Order that this section will appear in.
+title = "Lee Burton wins NSFC International Young Scientists award 2019"
+subtitle = "The National Science Foundation of China (NSFC) award for international young scientists in China."
+weight = 20  # Order that this section will appear in.
 
 date = 2019-04-20T00:00:00  # Schedule a publish date
 lastmod = 2019-04-17T00:00:00  # Date last modified
@@ -11,7 +11,7 @@ draft = false  # Display this post? (true/false)
 authors = ["admin"]
 
 tags = ["Award"]
-summary = "中国国家科学基金（NSFC）奖，奖励在中国的国际青年科学家。"
+summary = "The National Science Foundation of China (NSFC) award for international young scientists in China."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -45,4 +45,4 @@ caption = "Cupcake"
 
 +++
 
-中国国家科学基金（NSFC）奖，奖励在中国的国际青年科学家。
+The National Science Foundation of China (NSFC) award for international young scientists in China.
