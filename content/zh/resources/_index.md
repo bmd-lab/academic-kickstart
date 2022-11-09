@@ -97,4 +97,6 @@ date = 2019-05-17
 | 团体指南 | PDF   | [link](/img/group_guide_draft_1.pdf) |
 | 小组教程     | 网站  | [link](https://github.com/bmd-lab/tutorials) |
 | Lee Burton的简历 | PDF   | [link](/img/Lee_CV.pdf) |
-| Lee Burton 的博士论文 | PDF   | [link](/img/Lee_Thesis.pdf) |
+| Lee Burton的博士论文 (仅限英语) | PDF   | [link](/img/Lee_Thesis.pdf) |
+| 徐淼婷的论文 (仅限中文) | PDF   | [link](/img/MXthesis.pdf) |
+| 王翠翠的论文 (仅限中文) | PDF   | [link](/img/CWthesis.pdf) |

@@ -97,4 +97,8 @@ See below for a list of group resources.
 | Group Guide | PDF   | [link](/img/group_guide_draft_1.pdf) |
 | Group Tutorials | Website   | [link](https://github.com/bmd-lab/tutorials) |
 | Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
-| Lee Burton's PhD Thesis | PDF   | [link](/img/Lee_Thesis.pdf) |
+| Lee Burton's PhD Thesis (English only) | PDF   | [link](/img/Lee_Thesis.pdf) |
+| Miaoting Xu's Masters Thesis (Chinese only) | PDF   | [link](/img/MXthesis.pdf) |
+| Cuicui Wang's Masters Thesis (Chinese only) | PDF   | [link](/img/CWthesis.pdf) |
+
+
