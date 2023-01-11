@@ -37,5 +37,5 @@
     weight = 4
   [[zh.menu.main]]
     name = "文档"
-    url = "files"
+    url = "resources"
     weight = 5
