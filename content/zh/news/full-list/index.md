@@ -94,14 +94,15 @@ date = 2019-09-17
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        | 
-| [Lee Burton](/zh/members/lee) 开始在特拉维夫大学担任高级讲师                                                                         | 01/ &nbsp; 2023   |
+| [Lee Burton](/zh/members/lee) 开始在特拉维夫大学担任高级讲师。                                                                        | 01/ &nbsp; 2023   |
+| [Wenjun Zhang](/zh/members/wenjunzhang)张文君获中国数学建模大赛一等[奖](/img/WZ_certificate.pdf)。                                     | 12/ &nbsp; 2022    |
 | [王翠翠](/zh/members/cuicui)顺利从 BMD 毕业。 她的论文可在[资源](/zh/resources/)页面上找到                                                | 10/ &nbsp; 2022   |
 | [梁严乐](/zh/members/yanleliang) 张文君开始在BMD攻读硕士。                                                                           | 09/ &nbsp; 2022   |
-| [Lee Burton](/zh/members/lee) 是伦敦帝国理工学院部门研讨会的特邀演讲者 (<a  href="javascript:void(0)" id="myBtn8">照片</a>).             | 07/ &nbsp; 2022    |
-| [徐淼婷](/zh/members/miaoting)顺利从 BMD 毕业。 她的论文可在[资源](/zh/resources/)页面上找到                                                | 06/ &nbsp; 2022   |
-| [Lee Burton](/zh/members/lee) 是前沿材料国际会议的分会主席 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 05/ &nbsp; 2022    |
+| [Lee Burton](/zh/members/lee) 是伦敦帝国理工学院部门研讨会的特邀演讲者 (<a  href="javascript:void(0)" id="myBtn8">照片</a>)。             | 07/ &nbsp; 2022    |
+| [徐淼婷](/zh/members/miaoting)顺利从 BMD 毕业。 她的论文可在[资源](/zh/resources/)页面上找到。                                                | 06/ &nbsp; 2022   |
+| [Lee Burton](/zh/members/lee) 是前沿材料国际会议的分会主席 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108)。 | 05/ &nbsp; 2022    |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc2.pdf) (<a  href="https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d">链接</a>)。   |    04/ &nbsp; 2022    |
-| [Lee Burton](/zh/members/lee) 受邀作为国际前沿材料会议的组委会成员 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | 12/ &nbsp; 2021    |
+| [Lee Burton](/zh/members/lee) 受邀作为国际前沿材料会议的组委会成员 [的封面](http://www.icfm.org.cn/?sid=1858&mid=501&v=108)。 | 12/ &nbsp; 2021    |
 | [Wenjun Zhang](/zh/members/wenjunzhang)张文君开始在BMD攻读硕士。                                                           | 09/ &nbsp; 2021    |
 | [Michael Staines](/zh/members/michaelstaines)在BMD完成了研究实习工作。                                                     | 08/ &nbsp; 2021    |
 | [丁宇](/zh/members/yuding)在BMD担任研究助理。                                                                              | 07/ &nbsp; 2021    |
@@ -112,7 +113,7 @@ date = 2019-09-17
 | BMD文章被选为Journal of Physical Chemistry Letters [的封面](/img/cover_jphyschemlett.jpg) (<a  href="https://pubs.acs.org/toc/jpclcd/11/19">链接</a>)。   |    10/ &nbsp; 2020 |
 | [尧志坤](/zh/members/zhikunyao)和[赵彦祯](/zh/members/yanzhenzhao)两位研究生同学加入BDM课题组。 |  09/ &nbsp; 2020 |
 | BMD文章被选为Journal of Materials Chemistry C [的封面](/img/cover_jmatchemc.pdf) (<a  href="https://pubs.rsc.org/en/content/articlelanding/2020/tc/d0tc90168g/unauth#!divAbstract">链接</a>)。   |    08/ &nbsp; 2020    |
-| [丁宇](/zh/members/yuding)开始担任BMD的研究助理                                                                         | 04/ &nbsp; 2020 |
+| [丁宇](/zh/members/yuding)开始担任BMD的研究助理。                                                                         | 04/ &nbsp; 2020 |
 | 上海大学选择BMD作为特色视频 [(链接)](/news/bmd_video)。                                                                   |    02/ &nbsp; 2020 |
 | [Lee Burton](/zh/members/lee)是昆腾国际前沿研讨会的主席  (<a  href="javascript:void(0)" id="myBtn6">照片</a>)。                              | 11/ &nbsp; 2019  |
 | [Lee Burton](/zh/members/lee)是国际材料科学研讨会的特邀演讲者    (<a  href="javascript:void(0)" id="myBtn5">照片</a>)。                     |    11/ &nbsp; 2019    |
