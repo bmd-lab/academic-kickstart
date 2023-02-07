@@ -14,10 +14,10 @@
   title = "BMD-lab"
   [zh.params]
     description = "BMD-lab"
-    email = "leeburton@shu.edu.cn"
-    phone = "+86 021 6613 6129"
-    address = "中国上海上大路99号上海大学E110物理系，上海200444"
-    office_hours = "星期一到星期五 9:00 - 17:00"
+    email = "leeburton@tauex.tau.ac.il"
+    phone = "+972 03-6409915"
+    address = "Department of Materials Science and Engineering, The Iby and Aladar Fleischman Faculty of Engineering, Tel Aviv University, Tel Aviv 6997801, Israel"
+    office_hours = "9:00 - 17:00 GMT+2"
     donate = "[给我们买咖啡](donate)"
   [[zh.menu.main]]
     name = "人"

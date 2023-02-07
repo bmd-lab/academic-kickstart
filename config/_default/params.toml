@@ -50,8 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "leeburton@shu.edu.cn"
-phone = "+86 021 6613 6129"
+email = "leeburton@tauex.tau.ac.il"
+phone = "+972 03-6409915"
 address = "Department of Materials Science and Engineering, The Ilby and Aladar Fleischman Faculty of Engineeringm, Tel Aviv University, Ramat Aviv, Tel Aviv 6997801, Israel."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
