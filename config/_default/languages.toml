@@ -8,34 +8,34 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-[zh]
-  languageCode = "zh-Hans"
-  contentDir = "content/zh"
+[he]
+  languageCode = "he"
+  contentDir = "content/he"
   title = "BMD-lab"
-  [zh.params]
+  [he.params]
     description = "BMD-lab"
     email = "leeburton@tauex.tau.ac.il"
     phone = "+972 03-6409915"
     address = "Department of Materials Science and Engineering, The Iby and Aladar Fleischman Faculty of Engineering, Tel Aviv University, Tel Aviv 6997801, Israel"
     office_hours = "9:00 - 17:00 GMT+2"
-    donate = "[给我们买咖啡](donate)"
-  [[zh.menu.main]]
-    name = "人"
+    donate = "[לקנות לנו קפה](donate)"
+  [[he.menu.main]]
+    name = "אֲנָשִׁים"
     url = "#people"
     weight = 1
-  [[zh.menu.main]]
-    name = "新闻"
+  [[he.menu.main]]
+    name = "חֲדָשׁוֹת"
     url = "#news"
     weight = 2
-  [[zh.menu.main]]
-    name = "论文"
+  [[he.menu.main]]
+    name = "מומלצים"
     url = "#featured"
     weight = 3
-  [[zh.menu.main]]
-    name = "联系"
+  [[he.menu.main]]
+    name = "איש קשר"
     url = "#contact"
     weight = 4
-  [[zh.menu.main]]
-    name = "文档"
+  [[he.menu.main]]
+    name = "אֶמְצָעִי"
     url = "resources"
     weight = 5

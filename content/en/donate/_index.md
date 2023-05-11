@@ -94,35 +94,4 @@ Please consider donating to support our research.
 
 Small contribution will be used to treat and support the students in the group. 
 
-Large contributions will be used to buy equipment for the lab and will mean we can include your name in acknowledgements of a published paper. 
-
-We can accept payments from outside China via [Paypal](https://www.paypal.me/leeburton88) or inside china via Alipay:
-
-<html>
-
-<head>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="theme.css">
-<style>
-
-body {font-family: Arial, Helvetica, sans-serif;}
-
-</style>
-</head>
-<body>
-
-<img id="myImg" src="/img/alipay.png" alt="Alipay" style="width:100%;max-width:300px">
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-
-<script src="myscript.js"></script> 
-
-</body>
-</html>
-
+Large contributions will be used to buy equipment for the lab.

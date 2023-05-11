@@ -9,14 +9,14 @@ authors = ["michaelstaines"]
 superuser = false
 
 # Role/position
-role = "Intern at BMD"
+role = "Intern of BMD"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Shanghai University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Student of BMD"
+bio = "Intern of BMD"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = ""

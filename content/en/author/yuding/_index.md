@@ -94,5 +94,5 @@ bio = "Research assistant of BMD"
 
 Yu Ding is from Jiangsu province. He obtained his bachelor's degree in Chemical Engineering in 2017 from Jiangsu Ocean University and a master's degree in Green Chemistry in 2020 from the University of Shanghai for Science and Technology, respectively. After finishing his work at BMD, Yu Ding went on to work with David J. Pine at New York University in the US.
 
-Yu's CV can be viewed [here](/img/Yu_CV.pdf)
+Yu's CV can be viewed [here]
 

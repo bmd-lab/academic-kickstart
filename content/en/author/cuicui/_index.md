@@ -92,4 +92,4 @@ bio = "Student of BMD"
 
 +++
 
-Cuicui Wang is from Anhui Province. She graduated from Fuyang Normal University with a degree in Physics but also has experience with programming and software. Now she is a student in the physics department of Shanghai University.
+Cuicui Wang is from Anhui Province. She graduated from Fuyang Normal University with a degree in Physics but also has experience with programming and software. After graduating from BMD in 2022, she now works for a tech company in Shanghai.

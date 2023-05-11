@@ -62,4 +62,4 @@ bio = "Professor of BMD"
 
 +++
 
-Xiaoyan Gao is the administrative assistant for the department of physics and ICQMS.
+Xiaoyan Gao was the administrative assistant for the department of physics and the International Centre for Quantum and Molecular Structures.

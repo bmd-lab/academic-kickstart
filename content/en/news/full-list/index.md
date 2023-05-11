@@ -97,7 +97,6 @@ See below for full list of recent news
 | [Lee Burton](/members/lee) begins as Senior Lecturer at Tel Aviv University.             | Jan. &nbsp; 2023    |
 | [Wenjun Zhang](/members/wenjunzhang) wins the [award](/img/WZ_certificate.pdf) for China Post-Graduate Mathematics Modelling Contest.       | Dec. &nbsp; 2022    |
 | [Cuicui Wang](/members/cuicui) successfully graduates from BMD. Her thesis is available on the [resources](/resources/) page.                                              | Oct. &nbsp; 2021    |
-| [Yanle Liang](/members/yanleliang) begins as master student at BMD.                                                           | Sep. &nbsp; 2022    |
 | [Lee Burton](/members/lee) is an invited speaker for a departmental seminar at Imperial College London (<a  href="javascript:void(0)" id="myBtn8">Photo</a>).             | Jul. &nbsp; 2022    |
 | [Miaoting Xu](/members/miaoting) succesfully graduates from BMD. Her thesis is available on the [resources](/resources/) page.                                                         | Jun. &nbsp; 2021    |
 | [Lee Burton](/members/lee) is session chair at the International Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108).             | May &nbsp; 2022    |

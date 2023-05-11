@@ -92,4 +92,4 @@ bio = "Student of BMD"
 
 +++
 
-Miaoting Xu is from HeNan province. She studied applied chemistry at the Shanghai Institute of Technology and now is based in the chemistry department of Shanghai University.
+Miaoting Xu is from HeNan province. She studied applied chemistry at the Shanghai Institute of Technology and then got her masters degree with BMD. Now she is based at a Tech company in Shanghai.
