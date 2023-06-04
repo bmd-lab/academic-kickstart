@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "חדשות מומלצות"
-subtitle = "לרשימה מלאה של חדשות לחץ [כאן] (חדשות/רשימה מלאה)."
+subtitle = "[כאן]](news/full-list)לרשימה מלאה של חדשות לחץ"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

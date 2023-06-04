@@ -94,7 +94,7 @@ See below for a list of group resources.
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| Group Guide | PDF   | [link](/img/group_guide_draft_1.pdf) |
+| Tel Aviv International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
 | Group Tutorials | Website   | [link](https://github.com/bmd-lab/tutorials) |
 | Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
 | Lee Burton's PhD Thesis (English only) | PDF   | [link](/img/Lee_Thesis.pdf) |

@@ -94,7 +94,7 @@ date = 2019-05-17
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| מדריך קבוצות | PDF   | [link](/img/group_guide_draft_1.pdf) |
+| Tel Aviv University International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
 | הדרכות קבוצתיות    | URL  | [link](https://github.com/bmd-lab/tutorials) |
 | Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
 | עבודת הדוקטורט של לי ברטון (רק אנגלית) | PDF   | [link](/img/Lee_Thesis.pdf) |
