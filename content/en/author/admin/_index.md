@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Burton Materials Data Lab"
+name = "Burton Materials Discovery Lab"
 
 # Username (this should match the folder name)
 authors = ["admin"]
