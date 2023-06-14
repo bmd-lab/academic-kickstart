@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professor on BMD-lab</title>
+    <link>http://localhost:1313/tags/professor/</link>
+    <description>Recent content in Professor on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2012 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/professor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lee A. Burton</title>
+      <link>http://localhost:1313/people/lee-burton/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0300</pubDate>
+      
+      <guid>http://localhost:1313/people/lee-burton/</guid>
+      <description>Lee Burton is the principal investigator of the group.</description>
+    </item>
+    
+  </channel>
+</rss>
