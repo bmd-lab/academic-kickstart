@@ -1,21 +1,21 @@
 +++
 # Project title.
-title = "Wenjun Zhang"
+title = "Daniil Belazovschi"
 
-weight = 25
+weight = 15
 
 # Date this page was created.
-date = 2019-09-17T00:00:00
+date = 2012-06-18T00:00:00
 
 # Project summary to display on homepage.
-summary = "Wenjun Zhang is a masters student at Shanghai University"
+summary = "דניאל הוא סטודנט לתואר שני"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Student"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "members/wenjunzhang/"
+external_link = "members/daniil/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

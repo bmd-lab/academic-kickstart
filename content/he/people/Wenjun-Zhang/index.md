@@ -2,7 +2,7 @@
 # Project title.
 title = "Wenjun Zhang"
 
-weight = 65
+weight = 25
 
 # Date this page was created.
 date = 2019-09-17T00:00:00

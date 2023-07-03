@@ -2,7 +2,7 @@
 # Project title.
 title = "Zhikun Yao"
 
-weight = 30
+weight = 10
 
 # Date this page was created.
 date = 2019-09-17T00:00:00

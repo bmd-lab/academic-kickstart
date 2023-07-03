@@ -2,8 +2,7 @@
 # Project title.
 title = "Yanzhen Zhao"
 
-weight = 35
-
+weight = 20
 # Date this page was created.
 date = 2019-09-17T00:00:00
 
