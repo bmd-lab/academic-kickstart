@@ -94,11 +94,8 @@ See below for a list of group resources.
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| Tel Aviv International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
+| Tel Aviv Uni. International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
 | Group Tutorials | Website   | [link](https://github.com/bmd-lab/tutorials) |
+| Group Guide     | PDF       | [link](/img/group_guide.pdf)
 | Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
 | Lee Burton's PhD Thesis (English only) | PDF   | [link](/img/Lee_Thesis.pdf) |
-| Miaoting Xu's Masters Thesis (Chinese only) | PDF   | [link](/img/MXthesis.pdf) |
-| Cuicui Wang's Masters Thesis (Chinese only) | PDF   | [link](/img/CWthesis.pdf) |
-
-
