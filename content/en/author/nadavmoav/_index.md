@@ -1,24 +1,22 @@
 +++
 # Display name
-#name = ""
-Title = "Alumni and previous group members"
-date = 2019-09-17
+name = "Nadav Moav"
 
 # Username (this should match the folder name)
-#authors = ["Lee"]
+authors = ["nadavmoav"]
 
 # Is this the primary user of the site?
-#superuser = true
+superuser = false
 
 # Role/position
-#role = "Professor of BMD"
+role = "Master student of BMD"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "Shanghai University", url = "" } ]
+organizations = [ { name = "Tel Aviv University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-#bio = ""
+bio = "Master student of BMD"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = ""
@@ -52,86 +50,46 @@ date = 2019-09-17
 #  icon = "envelope"
 #  icon_pack = "fas"
 #  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-#
+
 #[[social]]
 #  icon = "twitter"
 #  icon_pack = "fab"
 #  link = "https://twitter.com/leeaburton"
-#
+
 #[[social]]
 #  icon = "google-scholar"
 #  icon_pack = "ai"
 #  link = "https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en"
-#
+
 #[[social]]
 #  icon = "github"
 #  icon_pack = "fab"
 #  link = "https://github.com/leeaburton"
-#
+
 #[[social]]
 #  icon = "linkedin"
 #  icon_pack = "fab"
 #  link = "https://www.linkedin.com/in/lee-a-burton/"
-#
+
 #[[social]]
 #  icon = "orcid"
 #  icon_pack = "ai"
 #  link = "https://orcid.org/0000-0002-0647-5483"
-#
+
 # Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
 #   icon = "cv"
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
-[image]
-#  Caption (optional)
-#  caption = "Previous and ongoing collaborations with BMD"
+[advanced]
+ # Custom CSS.
+ css_style = "featured_small"
+
+ # CSS class.
+ css_class = ""
 
 +++
 
-See below for full list of previous group members 
-
-| Name         |          Role &nbsp; &nbsp; &nbsp; |         Dates  &nbsp; &nbsp; |
-| ------------ |    ----------        |  --------------------------- |
-| [Yanzhen Zhao](/members/yanzhenzhao)     |     Masters Student       |    Sept. 2020  - Jul. 2023    |
-| [Miaoting Xu](/members/miaoting)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |
-| [Cuicui Wang](/members/cuicui)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |
-| [Xiaoyan Gao](/members/xiaoyan)     |     Administrative Assistant       |    Mar. 2019  - Jul. 2021    |
-| [Michael Staines](/members/michaelstaines)     |     Research  Intern       |    Jun. 2021 - Sept. 2021    |
-| [Yu Ding](/members/yuding)     |     Research  Assistant       |    Apr. 2020 - Sept. 2021    |
-
-<html>
-
-<head>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="theme.css">
-<style>
-
-body {font-family: Arial, Helvetica, sans-serif;}
-
-</style>
-</head>
-<body>
-
-<!-- The Modal -->
-<div id="myModal1" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-
-<!-- The Modal -->
-<div id="myModal2" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img02">
-  <div id="caption"></div>
-</div>
-
-<script src="myscript.js"></script> 
-
-</body>
-</html>
-</html>
-
+Nadav Moav is a student on the fast track to his master's degree in materials engineering at Tel Aviv University. He has an ambition to find new materials through advanced computational methods for the purpose of finding and improving technologies in the fields of energy storage and production.
