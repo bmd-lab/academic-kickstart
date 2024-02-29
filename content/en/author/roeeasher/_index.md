@@ -92,5 +92,4 @@ bio = "Master student of BMD"
 
 +++
 
-Roee Asher is a fast track master’s student in the materials science and engineering department at TAU. He’s aim is to find new materials using advanced computational methods and predict their properties, and to expand his knowledge on materials science. 
-
+Roee Asher is a fast track master’s student in the materials science and engineering department at TAU. His aim is to find new materials using advanced computational methods and predict their properties, and to expand his knowledge on materials science.
