@@ -9,7 +9,7 @@ title = "About Michael Staines"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
-author = "michaelstaines"
+author = "muhammadjabaly"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
