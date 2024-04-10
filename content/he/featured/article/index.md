@@ -1,6 +1,6 @@
 +++
-title = "Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3"
-date = 2022-05-01 
+title = "Predicting two-dimensional semiconductors using conductivity effective mass"
+date = 2024-04-01 
 #T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,17 +20,16 @@ authors = [""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Materials Chemistry C*, 2022, 10, 6628-6633"
+publication = "*Physical Chemistry Chemical Physics*, 2024, 26, 10520-10529"
 publication_short = ""
 
 # Abstract.
-abstract = "לאלקטריד החדש שהתגלה Sr<sub>3</sub>CrN<sub>3</sub> יש מבנה חלת דבש עם ערוצים שמחלחלים לכל אורכו. נמצא כי לערוצים אלה יש תכונות כמעט אידיאליות להובלת יוני הידריד כפי שמעידה אנרגיית ההפעלה הנמוכה ביותר שדווחה אי פעם. ממצא זה עשוי להיות בעל משמעות ביישומי תאי דלק או אחסון אנרגיה בשל הזמינות האוניברסלית של מימן. באופן רחב יותר, המחקר מדגיש את החשיבות הפוטנציאלית של אלקטרידים לעתיד של אנרגיה נקייה."
-
+abstract = "We investigate the relationship between the conductivity effective mass and exfoliation energy of materials to assess whether automatic sampling of the electron band structure can predict the presence of and ease of separating chemically bonded layers. We assess 22[thin space (1/6-em)]976 materials from the Materials Project database, screen for only those that are thermodynamically stable and identify the 1000 materials with the highest standard deviation for p-type and the 1000 materials with the highest standard deviation for n-type internal conductivity effective mass tensors. We calculate the exfoliation energy of these 2000 materials and report on the correlation between effective mass and exfoliation energy. A relationship is found which is used to identify a previously unconsidered two-dimensional material and could streamline the modelling of other two-dimensional materials in the future."
 # Summary. An optional shortened abstract.
-summary = "במאמר זה, אנו מוצאים שלחומר חדש יש אולי את התכונות האידיאליות ביותר להובלת יוני הידריד שדווחו אי פעם."
+summary = "In this paper, we find a new way to identify 2-dimensional semiconductors."
 
 # Digital Object Identifier (DOI)
-doi = "10.1039/D1TC05850A"
+doi = "10.1039/D4CP00277F"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -56,7 +55,7 @@ projects = []
 #slides = "example"
 
 # Links (optional).
-url_pdf = "https://arxiv.org/ftp/arxiv/papers/2112/2112.02326.pdf"
+url_pdf = "https://pubs.rsc.org/en/content/articlepdf/2024/cp/d4cp00277f"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -78,4 +77,4 @@ url_source = ""
   focal_point = ""
 +++
 
-לאלקטריד החדש שהתגלה Sr<sub>3</sub>CrN<sub>3</sub> יש מבנה חלת דבש עם ערוצים שמחלחלים לכל אורכו. נמצא כי לערוצים אלה יש תכונות כמעט אידיאליות להובלת יוני הידריד כפי שמעידה אנרגיית ההפעלה הנמוכה ביותר שדווחה אי פעם. ממצא זה עשוי להיות בעל משמעות ביישומי תאי דלק או אחסון אנרגיה בשל הזמינות האוניברסלית של מימן. באופן רחב יותר, המחקר מדגיש את החשיבות הפוטנציאלית של אלקטרידים לעתיד של אנרגיה נקייה.
+We investigate the relationship between the conductivity effective mass and exfoliation energy of materials to assess whether automatic sampling of the electron band structure can predict the presence of and ease of separating chemically bonded layers. We assess 22,976 materials from the Materials Project database, screen for only those that are thermodynamically stable and identify the 1,000 materials with the highest standard deviation for p-type and the 1,000 materials with the highest standard deviation for n-type internal conductivity effective mass tensors. We calculate the exfoliation energy of these 2,000 materials and report on the correlation between effective mass and exfoliation energy. A relationship is found which is used to identify a previously unconsidered two-dimensional material and could streamline the modelling of other two-dimensional materials in the future.

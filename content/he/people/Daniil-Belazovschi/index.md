@@ -8,7 +8,7 @@ weight = 15
 date = 2012-06-18T00:00:00
 
 # Project summary to display on homepage.
-summary = "דניאל הוא סטודנט לתואר שני"
+summary = "דנ הוא סטודנט לתואר שני"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
