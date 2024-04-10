@@ -94,11 +94,17 @@ See below for full list of recent news
 
 | News         |          Date &nbsp; &nbsp; &nbsp; |
 | ------------ |    ----------        |
+| A BMD article is selected for the [front cover](/img/cover_pccp.pdf) of Physical Chemistry Chemical Physics [(link)](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp90066a).   |    Apr. &nbsp; 2024 |
+| [Lee Burton](/members/lee) is an invited speaker for departmental seminar at the Hebrew University, Israel. | Feb. &nbsp; 2024 |
+| [Lee Burton](/members/lee) is an invited speaker for departmental seminar at the Hebrew University, Israel. | Jan. &nbsp; 2024 |
+| [Muhammad Jabaly](/members/muhammadjabaly) begins as a PhD student at BMD             | Dec. &nbsp; 2023    |
+| [Nadav Moav](/members/nadavmoav) and [Roee Asher](/members/roeeasher) begin as master students at BMD             | Oct. &nbsp; 2023    |
+| [Yanzhen Zhao](/members/yanzhenzhao) successfully graduates from BMD.                                            | Sep. &nbsp; 2021    |
 | [Lee Burton](/members/lee) begins as Senior Lecturer at Tel Aviv University.             | Jan. &nbsp; 2023    |
 | [Wenjun Zhang](/members/wenjunzhang) wins the [award](/img/WZ_certificate.pdf) for China Post-Graduate Mathematics Modelling Contest.       | Dec. &nbsp; 2022    |
-| [Cuicui Wang](/members/cuicui) successfully graduates from BMD. Her thesis is available on the [resources](/resources/) page.                                              | Oct. &nbsp; 2021    |
+| [Cuicui Wang](/members/cuicui) successfully graduates from BMD.                                              | Oct. &nbsp; 2021    |
 | [Lee Burton](/members/lee) is an invited speaker for a departmental seminar at Imperial College London (<a  href="javascript:void(0)" id="myBtn8">Photo</a>).             | Jul. &nbsp; 2022    |
-| [Miaoting Xu](/members/miaoting) succesfully graduates from BMD. Her thesis is available on the [resources](/resources/) page.                                                         | Jun. &nbsp; 2021    |
+| [Miaoting Xu](/members/miaoting) succesfully graduates from BMD.                                                         | Jun. &nbsp; 2021    |
 | [Lee Burton](/members/lee) is session chair at the International Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108).             | May &nbsp; 2022    |
 | A BMD article is selected for [cover](/img/cover_jmatchemc2.pdf) of Journal of Materials Chemistry C [(link)](https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc90090d).   |    Apr. &nbsp; 2022 |
 | [Lee Burton](/members/lee) is invited as organising committee member to the International Conference on Frontier Materials [(link)](http://www.icfm.org.cn/?sid=1858&mid=501&v=108). | Dec. &nbsp; 2021    |
