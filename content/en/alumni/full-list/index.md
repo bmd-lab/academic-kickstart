@@ -94,6 +94,8 @@ See below for full list of previous group members
 
 | Name         |          Role &nbsp; &nbsp; &nbsp; |         Dates  &nbsp; &nbsp; |
 | ------------ |    ----------        |  --------------------------- |
+| [Wenjun Zhang](/members/wenjunzhang)     |     Masters Student       |    Sept. 2021  - Jul. 2024    |
+| [Zhikun Yao](/members/zhikunyao)     |     Masters Student       |    Sept. 2020  - Jul. 2024    |
 | [Yanzhen Zhao](/members/yanzhenzhao)     |     Masters Student       |    Sept. 2020  - Jul. 2023    |
 | [Miaoting Xu](/members/miaoting)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |
 | [Cuicui Wang](/members/cuicui)     |     Masters Student       |    Sept. 2019  - Jul. 2022    |

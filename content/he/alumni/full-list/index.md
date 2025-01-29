@@ -94,6 +94,8 @@ date = 2019-09-17
 
 | שֵׁם         |          תַפְקִיד  &nbsp; &nbsp; &nbsp; |         תַאֲרִיך  &nbsp; &nbsp; |
 | ------------ |    ----------        |  --------------------------- |
+| [Wenjun Zhang](/members/wenjunzhang)     |     סטודנט לתואר שני ב-BMD       |    09/2021  - 07/2024    |
+| [Zhikun Yao](/members/zhikunyao)     |    סטודנט לתואר שני ב-BMD      |    09/2020  - 07/2024    |
 | [Miaoting Xu](/members/miaoting)     |     סטודנט לתואר שני ב-BMD      |    09/2019  - 07/2022    |
 | [Cuicui Wang](/members/cuicui)     |     סטודנט לתואר שני ב-BMD       |    09/2019  - 07/2022    |
 | [Xiaoyan Gao](/members/xiaoyan)     |     עוזר אדמיניסטרטיבי&nbsp       |    03/2019  - 07/2021    |

@@ -90,13 +90,14 @@ date = 2019-05-17
 
 +++
 
-参见下面的组文件列表。
+ראה להלן רשימה של משאבי הקבוצה
+
 
 | Title           | type  | URL  |
 | -------------   | ----- | ---- |
-| Tel Aviv University International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
-| הדרכות קבוצתיות    | URL  | [link](https://github.com/bmd-lab/tutorials) |
-| Lee Burton's CV | PDF   | [link](/img/Lee_CV.pdf) |
-| עבודת הדוקטורט של לי ברטון (רק אנגלית) | PDF   | [link](/img/Lee_Thesis.pdf) |
-| עבודת הגמר לתואר שני של מיאוטינג שו (סינית בלבד) | PDF   | [link](/img/MXthesis.pdf) |
-| עבודת המאסטר של Cuicui Wang (סינית בלבד) | PDF   | [link](/img/CWthesis.pdf) |
+| מדריך קבוצות     | PDF       | [link](/img/group_guide.pdf)
+| הדרכות קבוצתיות | Website        | [link](https://github.com/bmd-lab/tutorials) |
+| סרטונים קבוצתיים | Website       | [link](https://www.youtube.com/playlist?list=PLlou_0v8duuSeNbFnQBj7wxpV-zLOFs1s)
+| Lee Burton's CV | PDF       | [link](/img/Lee_CV.pdf) |
+| עבודת הדוקטורט של לי ברטון (רק אנגלית)    | PDF   | [link](/img/Lee_Thesis.pdf) |
+| Tel Aviv Uni. International Handbook | PDF   | [link](/img/TAU_Online_Handbook.pdf) |
